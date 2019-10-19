@@ -33,7 +33,7 @@ Some of these categories overlap. If it is deteremined that the overlap is non-n
 
 ### Components
 
-Membership components:
+#### Membership:
 
 - Joining and Leaving Process;
 - Rights granted;
@@ -43,14 +43,14 @@ Membership components:
 - Voting power; and
 - Stakeholders (may be duplicative of Membership Classes).
 
-Decision-making protocols:
+#### Decision-making protocols:
 
 - Number of protocols employed;
 - Tools for decision-making;
 - Types of decisions; and
 - Number of historic decisions.
 
-Governing bodies:
+#### Governing bodies:
 
 - Number of governing bodies;
 - Types of governing bodies;
@@ -59,7 +59,7 @@ Governing bodies:
 - Presence of advisory council; and
 - Location of governing bodies.
 
-Governance metrics:
+#### Governance metrics:
 
 - Number of governance proposals submitted;
 - Number of governance proposals accepted / submitted;
@@ -73,7 +73,7 @@ Governance metrics:
 - Number of current members leaving over a period of time (daily, weekly, monthly, yearly, etc.); and
 - Number of historic decisions.
 
-Binding documents, rules and regulations ("BDRR"):
+#### Binding documents, rules and regulations ("BDRR"):
 
 - Number of enabling documents (e.g., manifesto or constitution);
 - Existence of BDRR;
@@ -83,7 +83,7 @@ Binding documents, rules and regulations ("BDRR"):
 - Penalties for noncompliance with BDRR; and
 - Frequency of BDRR amendments.
 
-Principles and values, vision, mission, and objectives (PVVMO):
+#### Principles and values, vision, mission, and objectives (PVVMO):
 
 - Formalized PVVMO;
 - Existence of PVVMO;
@@ -91,7 +91,7 @@ Principles and values, vision, mission, and objectives (PVVMO):
 - Frequency of PVVMO formal or informal changes.
 
 
-External actors:
+#### External actors:
 
 - Relative influence (positive or negative) of external actors on governance changes or execution;
 - Relative presence of collusion between members and external actors;
@@ -103,7 +103,7 @@ External actors:
 - Existence of global communication channels; and
 - Existence of brand guide. 
 
-Organizational structure (e.g., hierarchial):
+#### Organizational structure (e.g., hierarchial):
 
 - Relative level of hierarchy;
 - Types of governance systems (e.g., sociocracy, holacracy);
@@ -111,14 +111,14 @@ Organizational structure (e.g., hierarchial):
 - Relative promotion of collaboration among members; and
 - Type of organizational culture.
 
-Opportunities:
+#### Opportunities:
 
 - Probability of being allocated greater responsibilities;
 - Probability of being allocated greater voting power;
 - Potential for growth within the organization; and
 - Potential for growth outside the organization.
 
-History:
+#### History:
 
 - Number of significant events;
 - Number of significant cultural changes;
@@ -127,6 +127,25 @@ History:
 - Activity level of the Founder(s);
 - Major changes in leadership; and
 - Number of rebrands of the organization.
+
+## Scoring
+
+The scoring for the components will be based on a 10-point scale for a grand total of 90 points. 
+
+Each category is scored from 1 - 9. 
+
+In scoring the categories, please assess the components in making your decision on a scale from 1 - 9, with 1 being "very negative," 2 - 4 is "negative," 5 being "neutral," 6 - 8 is "positive,' and 9 being "very positive." With component scoring, use the average score (score total / number of subcomponents)
+
+### Sample scoring based on the following situation for PVVMO:
+
+#### Principles and values, vision, mission, and objectives (PVVMO):
+
+- PVVMO is not formalized (negative)(score: 3);
+- PVVMO does exist (positive) (score: 6);
+- High rate of adherence among members and governing bodies to PVVMO (positive) (score: 8); and
+- PVVMO has only been formally changed once (very positive) (score: 9).
+
+In this situation, a score of (26 / 4) = 6.5 would be granted for the PVVMO category.
 
 ## Eventual Goals
 
