@@ -128,7 +128,7 @@ Some of these categories overlap. If it is deteremined that the overlap is non-n
 - Major changes in leadership; and
 - Number of rebrands of the organization.
 
-## Scoring
+### Scoring
 
 The scoring for the components will be based on a 10-point scale for a grand total of 90 points. 
 
@@ -136,7 +136,7 @@ Each category is scored from 1 - 9.
 
 In scoring the categories, please assess the components in making your decision on a scale from 1 - 9, with 1 being "very negative," 2 - 4 is "negative," 5 being "neutral," 6 - 8 is "positive,' and 9 being "very positive." With component scoring, use the average score (score total / number of subcomponents)
 
-### Sample scoring based on the following situation for PVVMO:
+#### Sample scoring based on the following situation for PVVMO:
 
 #### Principles and values, vision, mission, and objectives (PVVMO):
 
@@ -146,6 +146,61 @@ In scoring the categories, please assess the components in making your decision 
 - PVVMO has only been formally changed once (very positive) (score: 9).
 
 In this situation, a score of (26 / 4) = 6.5 would be granted for the PVVMO category.
+
+## Second Revised Formalization
+
+In this revised formalization, the components describe above will be used in conjunction with the organizational dimensions, capacity, and effectiveness (part of the 3-step framework)
+
+I am adding 4-5 dimensions from the organizational design/structure literature to the DGov Score Framework, in addition to the components discussed above.
+
+### Organizational Dimensions 
+
+Organizational dimensions derived from:
+
+Holotiuk, Friedrich; Beimborn, Daniel; and Jentsch, Christian, “THE DETERMINANTS AND ROLE OF AGILITY IN DIGITAL ORGANIZATIONS” (2018). Research Papers. 182. https://aisel.aisnet.org/ecis2018_rp/182; and
+Meijaard, J., Brand, M., & Mosselman, M. (2005). Organizational Structure and Performance in Dutch small Firms. Small Business Economics, 25, 83-96. https://www.rug.nl/staff/m.j.brand/SBE_2005_organizational_structure.pdf
+
+The dimensions are as follows:
+
+- decentralization: "the locus of authority in decision-making"
+- formalization: “relevance of codes and procedures for coordination”
+- integration/coordination: "describes the degree to which organizations coordinate activities between individuals and functions through   formal coordination mechanisms "
+- specialization /complexity: “degree of functional professionalism and expertise in tasks”
+- departmentalization: “specialized units oriented towards specific markets, projects, and clients”
+
+### Organizational Effectiveness 
+
+And an interesting discussion on organization effectiveness from Holotiuk et al. and Leah L. Fitchett (thoughts on adding this as well?):
+
+- Organizational Capacity (not necessarily effectiveness but is an interrelated concept)
+- Accounting measures (objective) (generally capital assets and resources)
+- Different types of capital (e.g., social capital and political capital)
+- Financial market measures (objective)
+- Strategic growth (subjective) (growth in comparison to competitors)
+- Client satisfaction (subjective) (whether clients are satisfied with Org’s offerings)
+- Goal-attainment (outcomes pursuant to self-proposed goals and/or its mission) (also types of outcomes)
+- Objectives and Strategies pursuant to the objectives
+- Reputation (public recognition and social trust)
+- Member engagement and leadership development (may not be needed here)
+
+Based on Fitchett, L.L. (2019). The Roles of Local Organizations in Collaborative Resource Governance: A Qualitative Case Study of Lake Associations. https://pdfs.semanticscholar.org/181f/05122f83102bac4cfb931b4fcfae15217c60.pdf
+
+### 3-Step Framework 
+
+After including both organizational design and organizational effectiveness, the framework can be redesigned so that the framework is applied in a 3-step manner:
+
+1. Determine where the organization falls under the organizational dimensions (use components as needed);
+2. Determine the (mission, capacity, objectives) of the organization (use components as needed); and
+3. Determine the effectiveness of the organization (use components as needed).
+
+The 3-step process based on Fitchett, L.L. (2019). The Roles of Local Organizations in Collaborative Resource Governance: A Qualitative Case Study of Lake Associations. https://pdfs.semanticscholar.org/181f/05122f83102bac4cfb931b4fcfae15217c60.pdf
+
+### Components
+
+The components described in the earlier section should be used in conjunction with the 3-step process. The components should make it easier to judge (and to make a score thereof) organizations in each step and leaves some wiggle room for the user to inject their own subjectivity. 
+
+For example, PVVMO can be used in Step 2 of the 3-step process. 
+
 
 ## Eventual Goals
 
