@@ -1,8 +1,8 @@
-## Initial Formalization
+# Initial Formalization
 
 We have initially formalized the DGov Score into 10 categories, with components under each category.
 
-### Categories
+## Categories
 
 Current categories are as follows:
 
@@ -196,7 +196,70 @@ After formalizing the DGov Score framework, we intend to turn our findings into 
 
 We expect the paper to go over our choices of categories and components, and a sample analysis of a project.
 
-## References
+# Third Revised Formalization
+
+Instead of a three-step procedure with separate scores, we can try a meta-score framework (similar to [meta-critic](https://www.metacritic.com/about-metascores)). Wikipedia reference to weighted-average: https://en.wikipedia.org/wiki/Weighted_arithmetic_mean#Basic_example
+
+Current thoughts on the weighted average formula is the following:
+
+> summation of metric_score * number_of_components / summation_of_metric_scores
+
+In the meta-score framework, an individual scores an organization on each metric (using components as needed), and then the individual applies a weighted average formula on the individual score for each metric, thus resulting in one overall score for an organization. This will provide the score from an individual standpoint. 
+
+To then determine a meta-score, we can try three possible approaches. First, we can aggregate the individual scores into a meta-score by applying a weighted average formula and compare (i.e., see the correlation) the score against a *reference individual's score*. Second, we can determine the correlation between individual scores and the weighted-average formula applied to highly correlated metrics (i.e., individual scoring of each metric).  Third, we can collect individual scores and use the median score as the meta-score.
+
+So let's say our meta-score is a framework comprised of  *n+1* metrics, then a couple questions arise. What *weights,* if any, do we assign to individual metrics? *How many* metrics to include?  
+
+The metrics we have thought of before are:
+
+* Organization Dimensions;
+* Mission, Capacity, and Objectives; and
+* Organization Effectiveness. 
+
+The current scale for each metric is a 9-point scale, with the components utilized for determining the point total on the scale.
+
+Our investigation into DAOs has led to the differentiation between Organization Technology (OrgTech) and Distributed Governance (DGov). I think OrgTech will fall under how an organization handles the four fundamental problems of organizing, while DGov will fall under Organization Design Ideal Types.
+
+Additionally, my short dive into the organization design literature has uncovered organization-specific inquiries:
+
+- Fundamental Problems of Organizing
+  - Task Division 
+  - Information Provision
+  - Task Allocation
+  - Reward Distribution
+
+- Organization Design Ideal Types
+  - Markets (not a formal organization ideal type)
+  - Communities
+  - Hierarchies / Bureaucracy
+  - Self-management Organization
+  - Adhocracy
+
+and their associated hybrids [[1]](https://doi.org/10.1186/s41469-018-0036-3).
+
+Then, does an organization even qualify as an *organization,* such that there is  “(1) a multi agent system with (2) identifiable boundaries and (3) system-level goals (purpose) toward which (4) the constituent agent’s efforts are expected to make a contribution" [[2]](https://doi.org/10.1186/s41469-019-0062-9). Though, this likely more of a screener question than anything else.
+
+Lastly, from my short review of Liberal Radicalism and new methods for Collective Action, we could also include use of novel collective action mechanisms such as Quadratic Voting and Conviction Voting towards the novelty of an organization. 
+
+The metrics for the meta-score framework can include:
+
+* Organization Dimensions;
+* Fundamental Problems of Organizing (Alternatively, how does Organization use OrgTech and new Collective Action mechanisms to solve the fundamental problems?);
+* Organization Design Ideal Type (Alternatively, does the organization fall under DGov Ideal Type?);
+* Mission, Vision, Principles and Values; 
+* Organization Design Novelty;
+* Voting Power (Banzhaf Index);
+* Governance and Membership (by making this its own metric);
+* Organization Capacity; and
+* Organization Effectiveness. 
+
+An additional component that can be added is *resource management* (i.e., how are resources managed in the organization).
+
+Then components will be determined for each metric. Once enough individual scores are created, we can then apply the meta-score. 
+
+If you have any questions or comments, please send me a message.
+
+# References
 
 1. https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework/112?u=char
 2. https://github.com/ConsenSys/defi-score/blob/master/whitepaper.md 
