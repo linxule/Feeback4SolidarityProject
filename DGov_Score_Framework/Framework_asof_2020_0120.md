@@ -259,6 +259,122 @@ Then components will be determined for each metric. Once enough individual score
 
 If you have any questions or comments, please send me a message.
 
+# Fourth Revised Formalization
+
+
+#### DGov Organization Determination V0.4
+
+Determine whether the organization is actually an *organization* (though, not required to see how it is solving the fundamental problems of organizing)
+
+“(1) a multi agent system with (2) identifiable boundaries and (3) system-level goals (purpose) toward which (4) the constituent agent’s efforts are expected to make a contribution" [[2]](https://doi.org/10.1186/s41469-019-0062-9). 
+
+
+#### DGov Organization Dimensions and Classification Model V0.4
+
+Determine where the organization falls under the Organization Dimensions and IdealType (Dimensions  determination is not required if we assume that DGov Organizations exist)
+
+[quote="char, post:32, topic:112"]
+The Ideal Types we can utilize for collaborative organizations are community and community-hybrids:
+
+* Community-Hierarchy
+* Community-Market
+* Community (closer to commons-based peer production, OSS projects)
+
+For organizations based on management style, we can use:
+
+* Bureaucracy
+* Adhocracy
+* Self-management
+
+or a combination of them.
+[/quote]
+
+
+#### DGov Organization Effectiveness Model V0.4
+
+##### Dimensions (partially based on https://files.eric.ed.gov/fulltext/EJ1066736.pdf and https://www.researchgate.net/publication/280238361_Organizational_Effectiveness_Models_Review_and_Apply_in_Non-Profit_Sporting_Organizations):
+
+1. Member Satisfaction/ Multiple Stakeholder Satisfaction
+2. [Voting Power Index](http://math-it.org/Mathematik/MathPol/Banzhaf.html). Also refer to  **http://cow.math.temple.edu/~cow/cgi-bin/manager**
+3. Collaborative Governance
+  3.1. Formal structure
+  3.2. Joint decision-making at all stages
+  3.3. What is the decision-making protocol?
+  3.4. Public involvement?
+  3.5. Discourse & Negotiation
+  3.6. Value Creation
+  3.7. Value Distribution
+
+4. Goal Attainment (i.e., is it making progress towards its mission)
+5. [Systems Resources](https://agecon.unl.edu/cornhusker-economics/2015/community-capitals-framework)
+  5.1. Resources: Based on community capitals framework: (1) natural capital, (2) cultural capital, (3) human capital, (4) social capital, (5) political capital, (6) financial capital, and (7) built capital. 
+
+6. Organization Technology (OrgTech)
+  6.1. Use of OrgTech
+  6.2. and other Web3 tech
+
+7. System openness and community interaction
+8. Internal Smoothness (i.e., do members of the Org think it is working well internally)
+9. Member personal development
+10. Member career development
+11. Presence of Formalized Enabling Documents
+12. Member professional development
+13. Resource Management
+14. Knowledge-sharing and Transparency
+15. Self-management
+16. Principles, Values and Mission
+17. Participatory Decision-making
+18. Non-binary voting systems
+19. Reputational
+  19.1. Public Recognition
+  19.2. Social Trust
+20. Bridging Activity 
+21. Leadership Development
+22. Member Engagement
+23. Adaptive Management
+24. Token Economics
+  24.1. Mostly focusing on organization-related tokens such as membership and governance (if not the same)
+25. Principle-agency Dilemma
+
+##### Effectiveness fields for DGov:
+
+###### Option 1
+* Good collaborative governance
+* Formalized Enabling Documents
+* External adaptation to environment
+* Development of Organization
+  * Goal Attainment
+  * Org Capacity
+* Promotion of cultural capital and system openness
+* Stakeholder view
+* Bridging Activity
+  * Can define as organization that bridge Web3 technologies, industry/domain players, and community together (i.e., nexus)
+* Member Personal Satisfaction
+* Usage of OrgTech and Democratizing Technology
+
+
+##### Option 2
+* Promotion of cultural capital and system openness
+* Bridging Activity
+* Good collaborative governance
+* Member Personal Satisfaction
+* Usage of OrgTech and Democratizing Technology
+* How is the Org solving the principle-agency problem?
+
+##### Instrument
+
+##### [Questionnaire](https://forms.gle/uV6RTHViQPLgLjrP9)
+
+#### DGov Score Meta-score
+
+##### Multi-constituency effectiveness analysis
+
+Can also redesign a method of the meta-score for comparing internal stakeholder evaluation of organization and external stakeholder evaluation of organization (basically, a multi-constituency effectiveness analysis)
+
+##### Predictor Variables
+
+Can hypothesize if any variables lead to a particular outcome.
+
 # References
 
 1. https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework/112?u=char
