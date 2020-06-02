@@ -66,3 +66,4 @@ Also need to refer to Wassim Alsindi and RichardRed0x's multi-factor governance 
 6. https://www.wavegp.com/media/blockchain-voter-apathy
 7. https://www.mycryptopedia.com/proof-of-importance/
 8. Multi-factor Governance Analysis based on Wassim Alsindi and @RichardRed0x’s work
+9. Rozas, David and Tenorio-Fornés, Antonio and Díaz-Molina, Silvia and Hassan, Samer, When Ostrom Meets Blockchain: Exploring the Potentials of Blockchain for Commons Governance (July 30, 2018). Available at SSRN: https://ssrn.com/abstract=3272329 or http://dx.doi.org/10.2139/ssrn.3272329
