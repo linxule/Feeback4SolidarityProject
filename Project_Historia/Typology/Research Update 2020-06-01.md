@@ -47,6 +47,8 @@ From [1]:
 8. Governance residence: What governance, if any, ison chain so that majority-rule decisions are  automatically  adopted  (e.g.  EOS,  Cosmos),verses  off-chain  governance  that  requires human intervention (e.g. Bitcoin, Ethereum)? 
 9. Funding model:  Who  funds  the  project? Who  decides  who  pays  what? Who  decides  the pricing model (including transaction fees)?"
 
+Also need to refer to Wassim Alsindi and RichardRed0x's multi-factor governance features.
+
 ## Perspectives
 
 - Political Decentralization
@@ -63,3 +65,4 @@ From [1]:
 5. https://opensource.com/article/20/5/open-source-governance
 6. https://www.wavegp.com/media/blockchain-voter-apathy
 7. https://www.mycryptopedia.com/proof-of-importance/
+8. Multi-factor Governance Analysis based on Wassim Alsindi and @RichardRed0x’s work
