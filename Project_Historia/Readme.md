@@ -16,11 +16,15 @@ Our view of blockchain governance primarily comes from common pool resources, th
   - Synthesize
 - Methodology
   - Method for creating typology
+  - Method for creating analytical tool
 - Results
   - Typology
+  - Analytical tools
 - Discussion
   - How we came to Typology
-  - Typology in action
+    - Short analysis
+  - How we came to analytical tool
+    - Short analysis
 
 Currently at the Explore substage of Exploratory Research
 
