@@ -54,4 +54,10 @@ Project Statis is for the development of a comprehensive metric that factors in 
     - Traditional Exchanges
        - Number of exchanges listed of the blockchain's native cryptocurrency(ies) and any tokens ("blockchain-assets")
        - Transaction volume of blockchain-assets
+    - Merchant adoption
+        - Number of merchants who have adopted blockchain-assets as a payment method
+    - Charity adoption
+        - Number of charitable organization who have adopted blockchain-assets as a donation method
+    - Automated Transaction Machine (ATM)
+        - Number of ATMs for blockchain-assets
    
