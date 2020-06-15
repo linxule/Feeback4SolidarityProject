@@ -37,6 +37,11 @@ Project Statis is for the development of a comprehensive metric that factors in 
         - Number of forks of the blockchain
      - Stakeholders
         - Number of new unique addresses
+        - Number of new other stakeholders
+      - Transactional Volume
+         - Number of yearly transactions
+   - Industry
+      - Number of industries adopting the blockchain (also the number of consortiums)
    - Social
       - blockchain community-related forums
         - Number of users
@@ -60,4 +65,6 @@ Project Statis is for the development of a comprehensive metric that factors in 
         - Number of charitable organization who have adopted blockchain-assets as a donation method
     - Automated Transaction Machine (ATM)
         - Number of ATMs for blockchain-assets
+    - Relative Value
+        - Relative increase in perceived value of blockchain-assets
    
