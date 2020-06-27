@@ -1,14 +1,50 @@
 # DGov Score Framework Rating Instrument_Essential
 *For Framework Version 0.5* 
-@ledgerback
+[@ledgerback](https://twitter.com/ledgerback)
 @char
+@jsmye
 ###### tags: dgov, governance, blockchain, DAO, digital organizations, decentralized digital organizations, digitalization, organization design, organization effectiveness, organization management, organization dimensions, decentralization, participative, decision-making, collaborative, cooperatives, collectives, associations 
+
+## Table of Contents
+[TOC]
+
+## Disclaimer
+
+The Rating Instrument has not been tested nor validated by the Solidarity Project research group by any generally accepted means of doing so, as of writing. 
+
+This Rating Instrument is still in the development stage and should be used with absolute caution. 
+
+Do not rely on the results of this instrument for any future course of action, including without limitation, any legal-, financial-, or career-related courses of action.
+
+For anyone who want to test and validate the instrument, please do so and report your findings to us by leaving a comment or creating a pull request on our [Github](https://github.com/Ledgerback/Solidarity-Project/tree/master/DGov_Score_Framework/Instruments) repository.
+
+## Proposals
+
+- Change the name from *Rating Instrument* to *Assessment Instrument*
+- Add a threshold level for organizations to receive a DGov certification (i.e., certified DGov)
+- Questionnnaire for members of Organization (will ask more probing questions and require disclosure statement), while Assessmnet is for non-member of an Organization
+- Add option for others to add DGov Score to their own dashboards
+- Consider replacing Likert-scale questions with exemplary answers
+- Add Cooperatives as a preferred bias
+- Add Reputation Mechanisms to Collaborative Governance section
+
+## Orientation
+
+- Organizational Forms
+    - Self-Management Organizations
+    - Community Organizations
+    - Cooperatives
+- Information
+    - Transparency
+
+## Project Management Board
+
+Please refer to the [DGov Score Framework Project Management Board](/FYckXs4AQbqslTqEiHnzgA) for task lists and volunteer opportunities.
 
 
 ---
 
-## Table of Contents
-[TOC]
+
 
 ---
 
@@ -16,159 +52,144 @@
 
 Reformatting the questions into proper order and adding more exemplary answers.
 
-Reducing number of questions to ~40-60.
+Reducing number of questions to ~40-80.
+
+Removing questions that are in ``` code ```
 
 Reducing categories to:
 
-- Organization idealtype
+***---JS: If we're going to go with something like a DGov Idealtype(which I think we should, we should have a short writeup for it.***
 - collab governance, 
-    - compliance and transparency, 
+- compliance and transparency, 
 - organization identity, 
+    - history should also be included
 - Web3, 
 - Goal attainment, and 
 - Member growth
+```
+Can probably remove Goal attainment
+```
+Should also mention the type of organiztion and its primary market. ***---JS:Agreed***
+
+Re-arranging and removing duplicitous or too similar questions. 
+
 
 ## Purpose
 
-Instrument for rating DGov-related organizations utilizing the DGov Score Framework V0.5's intra-firm modules. 
+Instrument for assessing the distributed governance practices of digital/internet-native organizations utilizing the DGov Score Framework V0.5's Intra-firm modules, based on four impact areas for Distributed Governance:
 
-This instrument will produce a rating (i.e., a score) for DGov organizations based on the following intra-firm modules:
+1. Collaborative Governance
+2. Compliance & Transparency
+3. Organization Identity
+4. Member Growth
+5. **Unorganized** (Questions that need to be organized in one of the 4 above categories or a new category)
 
-- Organization Effectiveness; and
-- Universal Problems of Organizing.
+This instrument will produce a rating (i.e., a score) for organizations based on the following intra-firm modules:
 
-The instrument will primarily be based on likert-scale, multiple-choice, and *n*-point questions. 
+- Organization Dimensions;
+- Organization Typology; and
+- Human-centric Management.
 
-***Might need to remove some of the OrgEffectivenss-related questions***
+***---JS: We definitely need to do a writeup for this aspect***
+
+The instrument will primarily be based on multiple-choice (single or multiple answers) questions. 
+
 ## Instructions
 
 1. Only one answer per question unless stated otherwise. 
 2. Refer to the Definitions section if a term is unclear.
-3. Only refer to the terms as defined in Definitions. Do not refer to any third party source for the definition of a term already defined in this instrument.
+3. Only refer to the terms as defined in Definitions. Do not refer to any third-party source for the definition of a term already defined in this instrument.
 
-## Definitions 
+## Definitions
+|Terms  | Definitions|
+|-------|-------|
+|All rights reserved | Absolute restrictions on the use of outputs|
+| Community reputation  |A reputation determined by the totality of the peers (i.e., community), that can be formulated in multiple ways. For example, the community reputation could be some amalgamation of the peer scores, or the peer reputation scores amalgamated with the functional reputation scores|
+| Departments | Existence of formal and informal divisions within an organization. |
+|External Stakeholders | External stakeholders means stakeholders who are not Members of the Organization but are still a core constituency. For example, the customers of a company.|
+|Formalization | The extent to which organizational policies, practices, and ways of completing tasks are standardized|
+|Free | No restrictions whatsoever on the use of outputs|
+|Functional reputation | A reputation determined based on a peer's performance on a specific function (e.g., participation in governance)|
+| Internal Stakeholders |  Stakeholders who are Members of the Organization and have influence within the organization. For example, the employees of a company. |
+| Hierarchical| Supervisors in higher units have absolute authority over the decision-making, conflict resolution, information flows, power and resource allocation authority of a subordinate team’s actions in lower units |
+|Horizontal Relationships | a relationship of peers in the same function where one may have authority over other(s) of the same function|
+|Managers| A Member of the Organization who has a subordinate(s) or is tasked with overseeing the day-to-day operations of the Organization |
+| Member| A person or organization (i.e., natural or artificial person) that is affiliated with an Organization by fulfilling the requirements for membership, ownership or employment relationship|
+|Multi-sig | An account or wallet that requires more than one signature to execute a transaction. Additionally, a multi-sig may refer to a smart contract that controls another smart contract, primarily for the safekeeping of funds, that requires more than one signature to execute a transaction.|
+|Network Congestion| When a network’s (often a blockchain or another p2p network) functioning significantly slows down because of more than usual traffic on the network |
+|Newcomer | A Member who has recently joined the Organization and has been affiliated with the Organization for less than 6 months|
+| Newcomer Joining Rate | The rate that Newcomers join the Organization over the past year|
+| Ongoing Member | a Member who has been affiliated with the Organization for more than 6 months |
+|Open Source | Some restrictions on the use of outputs (generally restrictions require attribution, use for non-commercial purposes) |
+|Operational Jurisdiction| Where the primary place of business is for the Organization.|
+|Peer reputation| A reputation determined on a peer-to-peer basis where peers rate the reputation of each other directly|
+|Radical Decentralization | Teams have the full authority to make key decisions about tasks and resource allocation, top management has few, if any, authority to make key decisions, supervisor-subordinate relationship is abolished, and decentralization of authority is Formalized|
+| Selective Decentralization | the freedom of the teams has clear boundaries, beyond which they have to seek permission from their supervisors, who also retain the right to intervene at any moment|
+|Specialization | the extent to which tasks require highly specific (i.e., specialized) work skills|
+| Token | A representation, often digital, of a right, asset, good, service, identifier, or something of value |
+|Vertical Relationships| A relationship of peers in different functions where one has decision-making and conflict resolution authority over the other(s) based on function  or the  because a peer is in a higher unit than another peer (e.g., manager-subordinate)|
 
-|Term| Definition|
-|----|-----------|
-|Department| business units dedicated to a specific client, specilaization, or line of business|
-|Vertical Relationships:|
-|Horizontal Relationships:
-|Hierarchial: 
-|Decision-making power: 
-|Joining Rate| the rate at which Newcomers join the Organization on a yearly basis (i.e., Newcomers per year)|
-|Organization| the specific organization of interest you are referring to as you answer the questions in the Questionnaire. 
-|Member| an individual or organization that is a member (e.g., employee, corporate officer, etc.) of the Organization.
-|Manager| is an individual or organization that is a member of the Organization, usually involved in system-level decision-making, and has one or more subordinates.
-|Network Congestion| when the network becomes congested with too many transactions and the transaction fees and/or completion time of transactions is higher than usual|
-|Newcomer| is an individual or organization that recently joined the Organization. 
-|Principle-agency Problem| First, ensuring that agents act in the best interest of the principle, which are the owners of the Organization, instead of the agent's own private interests. Second, reducing the information asymmetry between agent-managers and the principal-owners|
 
+
+:memo:**Proposal may be used synonymously with resolution.** 
 
 ## Instrument 
 
-Categories:
-****
-1. Organization IdealType
-2. Collaborative Governance (voting, stratgey/policy determination, decision-making, resource mgmt, proposal systems?, leadership development, authority, dispute resolution, governing bodies such as bd of dir's, accountability, length of time core team has stayed) (also refer to ouishare)
-3. Organization Capacity (on- and off-chain assets, # of working personnel, # of non-member contributions, # of non-member contributors, # of funding rounds, amount of money raised in funding rounds, # of investors, diversity of investors, speializations of working personnel, # of partnerships with public and prviate entities, types of partnerships, number of departments)
-4. Membership (classes of stakeholders, organization ownership, resource ownership, enty and exit rates, comfortability of newcomers, ease of joinign and leaving, membership boundarries (in-group v. out-group), responsibilities and obligations of members)
-5. Formalization (documents, roles, etc.)
-6. Compliance and Transparency
-7. Organization Identity (mission, principles and values, vision, objectives,  culture (internal and external), social reputation, licenses outputs, and the like)
-8. Blockchain-related questions 
-9. Production of goods and services (problem-solving process, knowledge-sharing, # of contributions/membership, diversity of contributions, # of active, inactive and planned goods, services, and/or products, ?use of independent contractors? )
-10. Internal & External Relations (communication channels)
-11. Universal Problems of Organizng specific questions (also somewaht addresses principle-agent problem)**
-12. Web3, OrgTech, Tokenization, Blockchain-specific questions (can ask security-related questions here as well) (existence of smart contract audits, number of hacks if any, which Web3 tech providers are in use, use of any OrgTech, what has been tokenized, use of any crypto-primitives) (for blockchani-specific Q's, refer to questionnaire)
-13. Goal Attainment
-14. Member Growth (refer to questionnaire)
-15. History (number of hard forks, number of rebrands, etc.)
+### Basic Information
 
-For principles and values, need to describe basic blockchain/web3 principles and values, self-mgmt and comm'y principles and values, DGov principles and values, and co-op principles and values.
-
-**Should make a questionbank for each category**
+**1. Name of the Organization**
 
 
-### Organization IdealType
+**2. Organization Type**
 
-*Preference for self-mgmt orgs and community-like orgs*
+- [ ] For-profit corporation
+- [ ] Non-profit corporation
+- [ ] Association
+- [ ] Cooperative 
+- [ ] Trust
+- [ ] Unincorporated association
+- [ ] Limited Liability Company
+- [ ] Sole Proprietor
+- [ ] Decentralized Digital Organization 
+- [ ] Decentralized Autonomous Organization (aka DAO)
+- [ ] None of the above
 
-##### Self-Mgmt, Adhocracy, Hierarchy
+**3. Types of goods and services offered/Sector**
 
-1. Decision-making Power
+- [ ] Agriculture
+- [ ] Services
+- [ ] Energy
+- [ ] Healthcare
+- [ ] Information Technology
+- [ ] Cybersecurity
+- [ ] Blockchain
+- [ ] Academia
+- [ ] Communications
+- [ ] Marketing
+- [ ] Insurance 
+- [ ] Entertainment
+- [ ] Gaming
+- [ ] Manufacturing
+- [ ] Venture capital
+- [ ] Transportation 
 
-- [ ] Hierarchial (Vertical: Hierarchial; Horizontal: Hierarchial)
-- [ ] Selective Decentralization (Vertical: Hierarchial; Horizontal: Decentralized)
-- [ ] Radical Decentralization (Vertical: Decentralized; Horizontal: Decentralized) 
+**4. Year the Organization was formed?**
 
-2. Manager Power over Subordinates
-- [ ] Extensive
-- [ ] Loosened, especially within teams
-- [ ] Non-existent
-3. Direction Setting
-- [ ] Strict task boundaries and precise instructions eliminate the need for distributing broad information
-- [ ] Teams typically have necessary information to make most task-related decisions. Other decisions made at higher levels where the managers have enough overall information for decision-making.
-- [ ] Transparency of all key information and active distribution of information to ensure each employee's capability to make decisions that benefit the wholeness.
-4. Task Allocation
-- [ ] Top-down process where managers allocate tasks and responsibilities to their subordinates
-- [ ] Within-team allocation done autonomously; Top-down process for allocation of agents to tasks and major resources
-- [ ] Emerges from the interaction between employees who have considerable authority to decide which roles to fulfill.
-5. Task Division
-- [ ] Top-management identifies the necessary tasks, which are then divided into sub-tasks and sub-sub-tasks by layers of management in a top-down process.
-- [ ] Top-down process. But within-team task division is done more autonomously, with managers retaining the right to intervene and authorize larger decisions
-- [ ] Bottom-up and top-down with top management as well as individual employees having the responsibility and authority to create new tasks.
- 
-6. Eliminating Freeriding
-- [ ] Supervisors responsible for monitoring the actions and/or outputs of their subordinates.
-- [ ] Supervisors responsible for monitoring the actions and/or outputs of their subordinates.Within teams employees might be primarily accountable for each other.
-- [ ] Employees primarily accountable for and monitored by each other with explicit conflict resolution mechanisms to resolve conflicts
+- [ ] Before 2010
+- [ ] 2010 - 2012
+- [ ] 2013 - 2015
+- [ ] 2015 - 2017
+- [ ] 2017 - 2020
 
-7. Coordination of Interdependent Tasks
-- [ ] Standardized procedures and top-down task allocation and monitoring ensure the necessary coordination
-- [ ] Within-team coordination typically done through constant communication. Within-function coordination accomplished hierarchically, with interfunctional teams helping the functions to coordinate
-- [ ] Within-team and within-function coordination accomplished through constant communication, coordination roles and IT systems.
-
-##### Community, Market, Hierarchy
-
-
- 
-1. Task Division
-
-- [ ] Scope of transacted goods typically set by buyer, division of tasks to provide goods by supplier
-- [ ] Managerial decision(authority), centralized
-- [ ] Distributed identification and division of tasks by general members
-
-2. Task Allocation: Assignment
-- [ ] Bidding/price, decentralized in dyads (can be facilitated by centralized platforms)
-- [ ] Managerial decision(authority), centralized
-- [ ] Self-assignment, decentralized (can be facilitated by centralized platforms)
-3. Task Allocation:  Resources
-- [ ] Price Mechanism
-- [ ] Managerial decision (authority)
-- [ ] Actor-based mobilization of shared resources in commons
-4. Task Allocation: Quality/task approval by:
-
-- [ ] Customer
-- [ ] Manager
-- [ ] Peer
-5. Reward distribution: incentives
-- [ ] Compensation for outputs via price mechanism
-- [ ] Typically compensation for inputs (e.g., time)
-- [ ] Benefits from use of complementary, non-rival goods; other intrinsic and extrinsic rewards
-6. Information Provision: Information Flow
-- [ ] Via networks, information intermediaries (private and public)
-- [ ] Directed, primarily vertical
-- [ ] Transparent, via networks and commons
- 
-7. Information Provision: Information Aggregation
-- [ ] Price mechanism, market intermediaries and information aggregators
-- [ ] Hierarchical channels
-- [ ] Commons, collective problem, and solution representations
+**5. The operational jurisdiction of the Organization, if applicable?**
 
 
-### Collaborative Governance
 
-Collaborative Governance (voting, stratgey/policy determination, decision-making, resource mgmt, proposal systems?, leadership development, authority, dispute resolution, governing bodies such as bd of dir's, accountability, length of time core team has stayed) (also refer to ouishare)
+**6. The formation jurisdiction of the Organization, if applicable?**
+
+
+
+### Collaborative Governance 
 
 ##### Voting Power
 
@@ -184,8 +205,7 @@ please refer to the links below:
 3. https://www.youtube.com/watch?v=mCZQ_ZEM7XQ
 ```
 Refer to [this site to calculate the Banzhaf Power Index]( https://homepages.warwick.ac.uk/~ecaae/ipgenf.html)
-1. Range (Highest Weight minus Lowest Weight) of Absolute Banzhaf Power Index.
-
+**7. Range (Highest Weight minus Lowest Weight) of Absolute Banzhaf Power Index.**  
 - [ ] 0
 - [ ] 1 - 3
 - [ ] 4 - 6
@@ -197,51 +217,60 @@ Refer to [this site to calculate the Banzhaf Power Index]( https://homepages.war
 - [ ] 23 - 25
 - [ ] 25+ 
 
-2. Is voting system equitable among Members in the Organization?
+0 = 10
+1 – 3 = 9
+4 – 6 = 8
+7 – 9 = 7
+10 – 12 = 6
+13 – 15 = 5
+16 – 18 = 4
+19 – 21 = 3
+22 – 24 = 2 
+25+ = 1
+
+**8. Is the voting system equitable among Members in the Organization?**
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
+
+No score. 
 
 ##### Dispute Resolution 
-3. Does the Organization have an internal dispute (i.e., conflict) resolution procedure?
+**9. Does the Organization have an internal dispute (i.e., conflict) resolution mechanism?**
+
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
-4. If you answered *"Yes"* to Question 3, how much do you agree or disagree with the following statement: 
 ```
-"The Organization's dispute resolution procedure 
-provides adequate process to the parties invovled."
+Same scoring for all Yes, No, and Unsure options questions in the Instrument
 ```
-- [ ] I strongly agree with the statement
-- [ ] I moderately agree with the statement
-- [ ] I do not agree nor disagree with the statement
-- [ ] I moderately disagree with the statement
-- [ ] I strongly disagree with the statement
-- [ ] N/A
+Yes = 2
+No = 1
+Unsure = 0
 
-Could also try a likert scale
+**10. Does the Organization’s internal dispute resolution mechanism have any of the following features? (Check all that apply)**
 
-- [ ] 1 (Strongly Disagree)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Strongly Agree)
+- [ ] Neutral Arbitrator
+- [ ] Option to appeal the judgment (i.e., appellate review)
+- [ ] Parties can present evidence
+- [ ] Parties can select arbitrators
+- [ ] Rules and procedures
+- [ ] Parties can have a representative
+- [ ] Arbitrators are selected from within the Organization
+- [ ] Arbitrators are selected from outside the Organization
+- [ ] Arbitrators investigate and present evidence
+- [ ] A jury of peers from within the Organization
+- [ ] A jury of peers from outside the Organization
+- [ ] None of the above
 
-```
-Possible replacement for the 3-point question below?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-```
+2 points = check. Capped at 10 points. 
+0 points = None of the above
 
+#### Membership Size
 
-10. Number of Membership Token holders (If different from the number of Members in the Organization)
+**11. How many Members are in the Organization?**
 - [ ] Less than 10
 - [ ] 10 - 50
 - [ ] 50 - 100
@@ -251,17 +280,20 @@ Possible replacement for the 3-point question below?
 - [ ] 750 - 1,000
 - [ ] 1,000 - 2,000
 - [ ] Greater than 2,000
-11. Number of Members in the Organization
-- [ ] Less than 10
-- [ ] 10 - 50
-- [ ] 50 - 100
-- [ ] 100 - 200
-- [ ] 200 - 500
-- [ ] 500 - 750
-- [ ] 750 - 1,000
-- [ ] 1,000 - 2,000
-- [ ] Greater than 2,000
-12. How many distinct classes of internal stakeholders exist?
+
+
+10 < = 1 point
+10 – 50 = 2 point
+50 – 200 = 4 points
+200 – 500 = 6 points
+500 – 750 = 6 points
+750 – 1000 = 4 points
+1000 – 2000 = 2 points
+> 2000 = 1 point 
+
+
+
+**12. How many distinct classes of internal stakeholders   exist?**
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -272,13 +304,26 @@ Possible replacement for the 3-point question below?
 - [ ] 8
 - [ ] 9 or more
 
-```
-13. If there are distinct classes of internal stakeholders, please describe their rights, obligations, and expected rewards in the Organization.
+1 - 3 = 2 point
+4 - 6 = 4 points
+7 - 9 = 2 points
 
-```
+**13. Does the Organization have any of the following classes of internal stakeholders? (Chceck all that apply)**
+
+- [ ] Users
+- [ ] Workers
+- [ ] Core Staff
+- [ ] Producers
+- [ ] Consumers
+- [ ] Managers
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+
+0 points = None of the above
 
 
-14. How many distinct classes of external stakeholders exist?
+**14. How many distinct classes of external stakeholders   exist?**
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -289,11 +334,28 @@ Possible replacement for the 3-point question below?
 - [ ] 8
 - [ ] 9 or more
 
-```
-15. If there are distinct classes of external stakeholders, please describe their rights, obligations, and expected rewards in the Organization.
-```
+1 - 3 = 2 points
+4 - 6 = 4 points
+7 - 9 = 2 points
 
-16. What is the voter participation rate as a percentage of the total number of members?
+
+**15.  Does the Organization have any of the following classes of external stakeholders?**
+
+- [ ] Government
+- [ ] Users
+- [ ] Partners
+- [ ] Investors
+- [ ] Consumers
+- [ ] Donors
+- [ ] Communit[y/ies]
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+
+0 points = None of the above
+
+
+**16. What is the voter participation rate as a percentage of the total number of Members eligible to vote?**
 - [ ] Less than 20%
 - [ ] 20 - 30%
 - [ ] 30 - 40%
@@ -303,166 +365,200 @@ Possible replacement for the 3-point question below?
 - [ ] 70 - 80%
 - [ ] 80 - 90%
 - [ ] Greater than 90%
+- [ ] None of the above
 
-19. Does the Organization utilize any of the following requirements for individual membership? (Check all that apply)
+Less than 20% = 1 point
+20-30% = 2 points
+30 – 40% = 3 points
+40 – 50% = 4 points
+50 – 60% = 5 points
+60 – 70% = 6 points
+70 – 80% = 7 points
+80 – 90% = 8 points
+90 – 100% = 9 points
+None of the above = 0 points
+
+**17. Does the Organization have any of the following requirements for individual membership? (Check all that apply)**
 
 - [ ] Adherence to the Organization's Principles and Values
 - [ ] Adherence to the Organization's Mission
 - [ ] Adherence to a movement's principles and values
 - [ ] Adherence to a movement's mission
+- [ ] Adherence to a community's principles and values
+- [ ] Adherence to a community's mission
 - [ ] Age 
 - [ ] Nationality
-- [ ] Skillset/Specialization 
-- [ ] Trial/Probationary Period
-- [ ] X number of contributions
-- [ ] Membership Agreement 
-- [ ] Certain types of contributions
+- [ ] Identity Verification
+- [ ] Skillset (i.e., Specialization)
+- [ ] Trial Period (i.e., Probationary Period)
+- [ ] Contributions threshold
+- [ ] Membership agreement (i.e., a standard legal contract)
 - [ ] Capital amount (>= $100.00)
 - [ ] Membership fee
+- [ ] None of the above
 
-20. Does the Organization utilize any of the following requirements for organizational membership? (Check all that apply)
+No score
+
+**18. Is the identity of a Member made visible during any of the listed activities?**
+
+- [ ] Commenting
+- [ ] Evaluations
+- [ ] Deliberation
+- [ ] Propos[als/ing]
+- [ ] Discussion
+- [ ] Budgeting
+- [ ] Production
+- [ ] Elections
+- [ ] Meetings
+- [ ] None of the above
+
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above.
+
+**19. Does the Organization have an expenses policy that covers any of the following topics? (Check all that apply)**
+
+- [ ] Types of expenses covered
+- [ ] Limits on the amounts of expenses
+- [ ] Member(s) assigned to handle expenses
+- [ ] Documentation needed for expenses
+- [ ] Procedure for approving expenses
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above.
+
+
+**20. Does the Organization have any of the following requirements for organizational membership? (Check all that apply)**
 
 - [ ] Adherence to the Organization's Principles and Values
 - [ ] Adherence to the Organization's Mission
 - [ ] Adherence to a movement's principles and values
 - [ ] Adherence to a movement's mission
-- [ ] Operational jurisdiction
-- [ ] Formation jurisdiction
-- [ ] Skillset/Specialization 
-- [ ] Trial/Probationary Period
-- [ ] X number of contributions
+- [ ] Adherence to a community's principles and values
+- [ ] Adherence to a community's mission
+- [ ] Operational jurisdiction 
+- [ ] Formation jurisdiction 
+- [ ] Skillset (i.e., Specialization)
+- [ ] Trial Period (i.e., Probationary Period)
+- [ ] Contributions threshold
 - [ ] Membership Agreement 
 - [ ] Certain types of contributions
 - [ ] Capital amount (>= $100.00)
-- [ ] Revenue amount
-- [ ] X number of members and/or employees
+- [ ] Revenue threshold
+- [ ] Size threshold
 - [ ] Membership fee
 - [ ] Organizational type (for-profit, non-profit, etc.)
-
-##### Compliance and Transparency
-
-
-21. Does the Organization have a governance-related subgraph on the Graph Protocol?
-
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
+- [ ] None of the above
 
 
-24. Are non-managers of the Organization complying with formalized (i.e., documented) rules, procedures and protocols of the Organization?
-
-- [ ] 1 (Low Compliance)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (High Compliance)
-
-23. Are Managers of the Organization complying with documented rules of the Organization?
-- [ ] 1 (Low Compliance)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (High Compliance)
-24. How transparent is the Organization to internal stakeholders?
-
-- [ ] 1 (Low Transparency)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (High Transparency)
-
-25. How transparent is the Organization to external stakeholders?
-- [ ] 1 (Low Transparency)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (High Transparency)
-26. Is the Organization acting in compliance with its Principles and Values?
-- [ ] 1 (Low Compliance)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (High Compliance)
-
-27. Is the Organization acting in compliance with Web3.0's Principles and Values?
-- [ ] 1 (Low Compliance)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (High Compliance)
+No score
 
 
-29. Are the Organization's contracts with third parties accessible to external stakeholders?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-30. Are the Organization's contracts with third parties accessible by the general public?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-31. Does the Organization utilize a multi-signature (multisig) wallet for the Organization-dedicated treasury (i.e., account, fund)(for On-chain AUM)?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
+**21. How does the Organization identify, manage, and measure its impact on the most material DGov issues? (Check all that apply)**
+
+- [ ] Tracking pre-identified impact metrics based on Organization's mission or principles and values
+- [ ] Identify and measure metrics based on a materiality assessment 
+- [ ] Set performance targets/benchmarks for identified material issues and measurements
+- [ ] Measure performance based on key performance indicators over time
+- [ ] None of the above
  
-
+2 points = check. Capped at 10 points.
+0 points = None of the above
 
 ##### Governance
-23. Does the Organization have any of the following formalized governance documents? (Check all that apply)
+**22. Does the Organization have any of the following formalized governance documents? (Check all that apply)**
 
 - [ ] Constitution
 - [ ] Manifesto 
 - [ ] Operating Rules
-- [ ] Incoporating documents (e.g., Articles of Incorporation)
+- [ ] Incorporating documents (e.g., Articles of Incorporation)
 - [ ] Organizational Handbook
-- [ ] Protocol 
-- [ ] Policies
+- [ ] Software Protocol  
+- [ ] Policies & Procedures
 - [ ] Code of Conduct
+- [ ] Code of Ethics
 - [ ] Proposal System
-32. Has the Organization formalized any rules or protocols to deter the emergence of an unaccountable, oligarchic governance structure within the Organization?
+- [ ] Bylaws
+- [ ] Statement of Principles and/or Values
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**23. Does the Organization have a reputation system for stakeholders members? (Check all that apply)**
+
+- [ ] Internal Stakeholders
+- [ ] External Stakeholders
+- [ ] None of the above
+
+2 points = check.
+0 points = none of the above. 
+
+**24. Does the Organization's reputation system have any of the following types of reputation? (Check all that apply)**
+
+- [ ] Peer Reputation
+- [ ] Functional Reputation
+- [ ] Community Reputation    
+- [ ] None of the above
+
+
+2 points = check
+0 points = None of the above 
+
+**25. Does the Organization measure functional reputation based on any of the following governance activities?**
+
+- [ ] Number of proposals passed per number of proposals proposed (Passed Proposals / Total Proposals)
+- [ ] Number of proposals passed
+- [ ] Number of proposals proposed
+- [ ] Number of proposals failed
+- [ ] Number of proposals voted for per Number of proposals voted against (Proposals voted for and rate of success of that proposal) (Vote for successful proposal / Votes for all proposals)
+- [ ] Number of proposals voted against
+- [ ] Number of proposals voted against that were unsuccessful
+- [ ] Number of proposals voted for that were successful
+- [ ] None of the above
+
+2 points = check; Capped at 10 points
+0 points = None of the above 
+
+
+**26. Has the Organization formalized any rules or protocols to deter the emergence of an unaccountable, oligarchic governance structure within the Organization?**
+
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
-33. Does the Organization utilize any of the following governance systems? (Check all that apply)
+**27. Does the Organization utilize any of the following governance/management systems? (Check all that apply)**
 
-- [ ] Holocracy
+- [ ] Holacracy
 - [ ] Sociocracy
 - [ ] Adhocracy
-- [ ] Commons Property Resource Management
+- [ ] Common Property Resource Management
 - [ ] Collaborative
 - [ ] Democratic
 - [ ] Hierarchy
+- [ ] Self-management 
+- [ ] Meritocratic
+- [ ] Plutocratic
+- [ ] Deliberative Democracy
+- [ ] Representative Meritocracy
+- [ ] Representative Democracy
+- [ ] Do-ocracy
+- [ ] Benevolent Dictator for Life
 - [ ] None of the above
-35. Does the Organization have an Organization-dedicated treasury/fund/account?
+
+No score 
+
+
+
+**28. Does the Organization have an Organization-dedicated treasury (i.e., a fund, an account)?**
+
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
-36. What are the decision-making protocols utilized in the Organization? (Check all that apply)
+
+**29. Does the Organization use any of the following decision-making protocols? (Check all that apply)** 
 - [ ] Autocratic
 - [ ] Avoidant
 - [ ] Consensus
@@ -471,15 +567,14 @@ Possible replacement for the 3-point question below?
 - [ ] Delegation
 - [ ] Democratic
 - [ ] Stochastic
-- [ ] Futarchy
-- [ ] Other
+- [ ] Futarchy 
+- [ ] None of the above
 
-34. If you chose *other* in Question 33, please describe the decision-making protocol. 
+2 points = check. Capped at 10 points.
+0 points = None of the above 
 
-```
 
-```
-35. How many leaders are in the Organization?
+**30. How many leaders (formal and informal) are in the Organization?**
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -489,236 +584,338 @@ Possible replacement for the 3-point question below?
 - [ ] 7
 - [ ] 8
 - [ ] 9 or more
+- [ ] None of the above
 
-36. Does the Organization make any meaningful efforts to develop its Member's leadership skills?
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+None of the Above = 0 
+
+**31. Does the Organization make any meaningful  efforts to develop its Member's leadership skills?**
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
-37. What is the propety rights regime of the Organization?
-- [ ] private-owned (solely individual)
-- [ ] private-owned (solely organization)
+
+
+**32. How are resources owned in the Organization?**
+- [ ] Private-owned (solely individual)
+- [ ] Private-owned (solely organization)
 - [ ] Common property (joint ownership)
 - [ ] Open Access (no ownership)
+- [ ] Public-owned (owned by a public entity)
+- [ ] Private-owned (solely owned by a third party(ies))
+- [ ] None of the above
 
-38. How does the Organization manage resources?
-- [ ] Actor-owned
-- [ ] Shared in commons
-- [ ] Open Access 
+2 points = check.
+None of the above = 0 
 
-39. Can Members make independent or team-level decisions on the purchase of resources?
+**33. How are resources allocated in the  Organization?**
+- [ ] Price Mechanism
+- [ ] Managerial decision (authority)
+- [ ] Actor-based mobilization of shared resources in commons
+- [ ] None of the above
 
-- [ ] 1 (Owner-dependent)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Actor-independent)
-40. How decentralized is authority in the Organization?
-- [ ] 1 (Very Centralized)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Very Decentralized)
-41. Does the Organization empower its Members to engage in the Organization's activities?
 
-- [ ] 1 (Very Rarely)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Very Often)
-42. Are members allowed to make and submit proposals concerning the Organization's governance?
+None of the above = 0 points
+Managerial decision = 1 point
+Price mechanism = 2 points
+Actor-based mobilization in the commons = 3 points
+
+
+
+**34. Who approves the quality of tasks in the Organization?**
+
+- [ ] Customer
+- [ ] Manager
+- [ ] Peer
+- [ ] None of the above
+
+None of the above = 0 points
+Manager = 1 point
+Customer  = 2 points
+Peer = 3 points
+
+**35. Does the Authority and Decision-making Power in the Organization fall under any of the following categories?**
+
+- [ ] Bureaucratic (Vertical: Hierarchical; Horizontal: Hierarchical)
+- [ ] Selective Decentralization (Vertical: Hierarchical; Horizontal: Decentralized)
+- [ ] Radical Decentralization (Vertical: Decentralized; Horizontal: Decentralized)     
+- [ ] None of the above
+
+Radical Decentralization = 3 points
+Selective Decentralization = 2 points
+Hierarchical = 1 point
+None of the above = 0 points 
+
+**36. Does the Organization empower its Members to engage in the Organization's governance or operational activities?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure 
+
+**37. Are Members allowed to make and submit proposals concerning the Organization's governance?**
+
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
-43. How is it determined when a proposal officially becomes enforceable in the Organization? (require different weights for each answer)
+
+**38. How is it determined when a proposal officially becomes enforceable in the Organization?  (Check all that apply)**
 - [ ] By a vote of the Members (majority, supermajority, etc.)
 - [ ] By approval of one or more (>=1) Managers
 - [ ] By approval of one or more (>=1) Leaders
-- [ ] By approval of one or more (>=1) governing bodies
+- [ ] By approval of one or more (>=1) Governing Bodies
 - [ ] By approval of one or more (>=1) team members
+- [ ] Failure to reject within a set timeframe
+- [ ] None of the above
 
-44. How do Members participate in the Organization's governance?
+2 points = check. Capped at 10 points.
+None of the above = 0 
+
+**39. How do Members participate in the Organization's governance? (Check all that apply)**
 
 - [ ] Making and submitting proposals
 - [ ] Voting on matters before the Members
 - [ ] Filling and executing governance roles 
-- [ ] Critiquing, filtering or discussing proposals, and other courses of action
-- [ ] Setting strategy for the Organization
+- [ ] Critiquing, filtering or discussing proposals and other courses of action
+- [ ] Setting strategy and direction for the Organization
 - [ ] Holding meetings on governance matters
-- [ ] Encouraging other Members to participate in governance
+- [ ] Encouraging other Members to participate in governance via Organization programs
 - [ ] Developing governance rules and procedures
-- [ ] Other
+- [ ] Participating in elections
+- [ ] Enforcing compliance with rules and procedures
+- [ ] None of the above
 
-45. If you chose *other* in Question 44, please describe how Member's parrtiicpate in governance.
+2 points = check.
+None of the above = 0 
 
-```
 
-```
-46. Do Members of the Organization share similar values and goals to the Organization?
+**40. Do Members of the Organization have a set of ethos similar to the Organization’s ethos?** 
 
-- [ ] 1 (Low Similarity)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (High Similarity)
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
 
-47. How are resources owned in the Organization?
-- [ ] Organization Private-property (Organization owns the property)
-- [ ] Community Common-property (Shared resources in commons)
-- [ ] Actor Private-property (Actors own the property)
-- [ ] Community-Organization Hybrid
-- [ ] Community-Actor Hybrid
-- [ ] Actor-Organization Hybrid
-- [ ] Other
-
-48. If you chose *other* in Question 47, please describe resource ownership in the Organization.
-
-```
-
-```
-49. What is the Organization's management structure? (might remove)
-
-- [ ] No Managers
-- [ ] Managers oversee all subrodinate actions and manager approval is required for all subordinate actions that are need to complete a task.
-- [ ] Managers oversee all subordinate action but suborfinates do not need manager approval for certain actions to complete a task.
-
-50. How do Members of the Organization participate in the problem-solving process? (Check all that apply)
+**41. How do Members of the Organization participate in the problem-solving process? (Check all that apply)**
 - [ ] Problem Definition
 - [ ] Generation of Alternatives
 - [ ] Selection and integration of solutions
+- [ ] None of the above
 
-```
-How is knowledge shared among Members of the Organization?
+2 points = check. Capped at 10 points.
+0 points = None of the above
 
-Probably best to remove the above Q because it gets address in IdealTypes
-```
-51. How is the strategic direction of the Organization determined?
+** 42. How is knowledge shared among Members of the Organization? (Check all that apply)**
+
+- [ ] Datastores (e.g., mind maps, handbooks, blockchain, repositories)
+- [ ] Talks (or some other speaking event)
+- [ ] Team meetings
+- [ ] Community meetings
+- [ ] Asynchronous communication (e.g., email)
+- [ ] Publications of materials on official channels of communication
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above
+
+
+**43. How is the strategic direction of the Organization determined? (Check all that apply)**
 
 - [ ] By Managers
 - [ ] By Leaders
 - [ ] By Members
 - [ ] By Governing Bodies (Undemocratic)
 - [ ] By Governing Bodies (Democratic)
-- [ ] Hybrid
+- [ ] Hybrid of the above options
+- [ ] None of the above
 
-52. How are Members of the Organization held accountable in the Organization?
+2 points = check. Capped at 10 points.
+0 points = None of the above
+
+
+**44. How are Members of the Organization held accountable in the Organization?**
 - [ ] Manager-subordinate accountability
 - [ ] Peer-to-peer accountability
-- [ ] Team Hybrid (peer accountability within teams, manager accountability outside of teams)
+- [ ] Team Hybrid (peer-to-peer accountability within teams, manager accountability outside of teams)
+- [ ] Customer accountability
+- [ ] None of the above
 
-53. What are the communication channels the Organization uses to communicate with internal stakeholders? (Check all that apply)
+2 points = check. Capped at 10 points.
+0 points = None of the above
+
+
+**45. What are the communication channels the Organization uses to communicate with internal stakeholders? (Check all that apply)**
 
 - [ ] Email
+- [ ] Blog
 - [ ] Newsletter
 - [ ] Social Media (e.g., Twitter)
-- [ ] Github
-- [ ] Forums (e.g., Discord)
+- [ ] Datastores (e.g., mind maps, handbooks, blockchain, repositories)
+- [ ] Forums (e.g., Discourse)
 - [ ] Messaging Application (e.g., Telegram)
 - [ ] Official Website
+- [ ] None of the above
 
-54. Do the formalized documents of the Organization explicitly require, or empower principles and values in accordance with self-management? 
+2 points = check. Capped at 10 points.
+0 points = None of the above
 
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
 
-55. How does the Organization motivate Members to act in furtherance of the Organization's goals? (Check all that apply)
+**46. Do the formalized documents of the Organization explicitly require, or empower principles and values in accordance with any of the following?** 
+
+- [ ] Self-management
+- [ ] Cooperativism (or Democratic)
+- [ ] Community 
+- [ ] Openness
+- [ ] Decentralization
+- [ ] Human-centric
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above
+
+
+**47. How does the Organization motivate Members to act in furtherance of the Organization's goals? (Check all that apply)**
 
 ###### Monetary  
-- [ ] Payment for services
+- [ ] Salary
 - [ ] Wages
 - [ ] Equity 
-- [ ] Staking Tokens for a specific period of time while engaging in activites with the Organization, which may be forefieted for bad behavior
-- [ ] Increased value fo investment
-###### Nonmonetary 
+- [ ] Staking Tokens for a specific period of time while engaging in activities with the Organization, which may be forfeited for bad behavior
+- [ ] Increased value of investment
+- [ ] None of the above
+###### Non-monetary 
 - [ ] Working on innovative projects
-- [ ] Working on menaingful projects
+- [ ] Working on meaningful projects
 - [ ] Improve Member's reputation
 - [ ] Supporting the Organization's mission
-- [ ] Supporting the Organization's Principels and Values
-- [ ] Supporting the Web3.0 mission
-- [ ] Supporting the Web3.0 principles and values
+- [ ] Supporting the Organization's principles and values
+- [ ] Supporting the Web3 mission
+- [ ] Supporting the Web3 principles and values
 - [ ] Working with interesting colleagues
 - [ ] Sharing in the outputs of production
-56. How does the Organization prevent Members from engaging in harmful acts against the Organization (e.g., stealing, corruption)?
+- [ ] Aiding the Member's professional or personal development
+- [ ] None of the above
+
+Monetary:
+
+-	2 points = check. Capped at 10 points.
+-	0 points = None of the above.
+
+Non-monetary:
+
+-	2 points = check. Capped at 10 points.
+-	0 points = None of the above.
+
+
+**48. How does the Organization punish Members for engaging in harmful acts against the Organization (e.g., stealing, corruption)?**
 
 - [ ] Fines
 - [ ] Expulsion 
 - [ ] Foregoing benefits
+- [ ] Suspending benefits
 - [ ] Demotion 
-- [ ] Equity/Token Forefiture
+- [ ] Asset Forfeiture (e.g., equity, tokens)
 - [ ] Public Shaming
-- [ ] Staking Tokens for a specific period of time while engaging in activites with the Organization, which may be forefieted for bad behavior
+- [ ] Suspension
 - [ ] Status removal
+- [ ] Governance Forfeiture (e.g., loss of voting power or ownership stake)
+- [ ] Payment Forfeiture (e.g., reduction in wages)
+- [ ] None of the above
 
-57. What are the guidance mechanisms the Organization utilizes for Members to know they are acting in furtherance of the Organization?
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+
+**49. How does the Organization punish Members for engaging in harmful acts against other Members?**
+
+- [ ] Fines
+- [ ] Expulsion 
+- [ ] Foregoing benefits
+- [ ] Suspending benefits
+- [ ] Demotion 
+- [ ] Asset Forfeiture (e.g., equity, tokens)
+- [ ] Public Shaming
+- [ ] Suspension
+- [ ] Status removal
+- [ ] Governance Forfeiture (e.g., loss of voting power or ownership stake)
+- [ ] Payment Forfeiture (e.g., reduction in wages)
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+
+**50. What are the guidance mechanisms the Organization utilizes for Members to know they are acting in furtherance of the Organization’s mission?**
 
 - [ ] Organization's Principles and Values
 - [ ] Organization's Mission
 - [ ] Organization's Vision
-- [ ] Protocol
-- [ ] Crypto-primitive
+- [ ] Software Protocol
+- [ ] Formal documents
+- [ ] Customer appreciation
+- [ ] Increased revenue
+- [ ] None of the above
 
-58. Does the Organization have any formal roles?
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+
+**51. Does the Organization have any formal roles?**
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
-59. Does the Organization utilize blockchain-based protocols for decentralized task management and task allocation?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
 
-60. How diverse are the funding  and material support sources of the Organization?
+**52. How does the Organization support internal governance? (Check all that apply)**
 
-- [ ] 1 (Low Diversification)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (High Diversification)
+- [ ] Well-defined roles with decision-making authority and responsibilities outlined 
+- [ ] Hold team meetings among members (or managers) about strategy or to make operational decisions
+- [ ] Formal procedures on how to decision-making and executing strategies
+- [ ] None of the above
 
-61. What type of turnover rate does the leadership of the organization exhibit?
+2 points = check. Capped at 10 points.
+0 points = None of the above.
 
-- [ ] 1 (Low Turnover Rate)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (High Turnover Rate)
+**53. How diverse are the funding and material support sources of the Organization?**
 
-62. How diverse are the contributions made by Members to the Organization?
+- [ ] Low Diversification
+- [ ] Moderate Diversification
+- [ ] High Diversification
+- [ ] No Diversification
+- [ ] None of the above
 
-- [ ] 1 (Very Uniform)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Very Diverse)
-63. How many Members are actively contributing to the Organization?
+2 points = check. 
+0 points = None of the above.
+
+
+**55. What type of turnover rate does the leadership of the Organization exhibit?**
+
+- [ ] Low Turnover Rate
+- [ ] Moderate Turnover Rate
+- [ ] High Turnover Rate
+- [ ] No Turnover Rate
+- [ ] None of the above
+
+2 points = check. 
+0 points = None of the above.
+
+**56. How diverse are the contributions made by Members to the Organization?**
+
+- [ ] Very Diverse
+- [ ] Diverse
+- [ ] Moderate
+- [ ] Uniform
+- [ ] Very Uniform
+
+2 points = check. 
+0 points = None of the above.
+
+**57. How many Members are actively contributing to the Organization?**
 - [ ] 1 - 5
 - [ ] 5 - 10
 - [ ] 10 - 20
@@ -728,59 +925,288 @@ Probably best to remove the above Q because it gets address in IdealTypes
 - [ ] 200 - 500
 - [ ] 500 - 1000
 - [ ] Greater than 1000
-
-64. How independent are authority figures in the Organization from external authority structures (e.g., their employment relationship with their employer)
-```
-Probably save this Q for Qnnaire
-```
-
-- [ ] 1 (Very Constrained)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Very Unconstrained)
+- [ ] None of the above
  
+1 – 5 = 1 point
+5 – 10 = 2 points
+10 – 20 = 3 points
+20 – 50 = 4 points
+50 – 100 = 5 points
+100 – 200 = 6 points
+200 – 500 = 7 points
+500 – 1000 = 8 points
+Greater than 1000 = 9 points
+0 points = None of the above
+
+ **58. How does the Organization integrate Distributed Governance (DGov) into its governance? (Check all that apply)**
+
+- [ ] Member training that includes DGov
+- [ ] Performance reviews that incorporate DGov  
+- [ ] Governing body (e.g., a committee) that is tasked with reviewing the Organization's governance regarding DGov 
+- [ ] Informally
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+
+**59. How is DGov incorporated into Member training?
+
+- [ ] Informally 
+- [ ] Specific formal training integrated into new Member training
+- [ ] Specific formal training integrated into ongoing Member training 
+- [ ] Member commitment to a mission that articulates DGov either individually or as part of a team
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
 
 ##### Hybrid Governance
-89. Does the Organization utilize a market(s) mechanism for governance or operational (e.g., providing a good or service) purposes? 
+
+**60. Does the Organization utilize a market(s) mechanism for governance or operational (e.g., providing a good or service) purposes?** 
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
-90. Does the Organization utilize a hierarchic mechanism for governance or operational purposes? If so, please describe them below.
+**61. Does the Organization utilize a hierarchic mechanism for governance or operational purposes? If so, please describe them below.**
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
-#### Organization Identity
+
+### Compliance, Ethics and Transparency
+
+
+**62. Are non-managers of the Organization complying with the formalized (i.e., documented) rules, procedures and protocols of the Organization?** 
+
+- [ ] Low Compliance
+- [ ] Moderate Compliance
+- [ ] High Compliance
+- [ ] No compliance
+- [ ] None of the above
+
+2 points = check. 
+0 points = None of the above.
+
+
+**63. Are Managers of the Organization complying with the documented rules of the Organization?**
+- [ ] Low Compliance
+- [ ] Moderate Compliance
+- [ ] High Compliance 
+- [ ] No compliance
+- [ ] None of the above
+
+2 points = check. 
+0 points = None of the above.
+
+**64. How transparent is the Organization to internal stakeholders?**
+
+- [ ] Very Transparent
+- [ ] Transparent
+- [ ] Very non-transparent
+- [ ] Non-transparent
+- [ ] None of the above
+
+2 points = check. 
+0 points = None of the above.
+
+**65. How transparent is the Organization to external stakeholders?**
+
+- [ ] Very Transparent
+- [ ] Transparent
+- [ ] Very non-transparent
+- [ ] Non-transparent
+- [ ] None of the above
+
+2 points = check. 
+0 points = None of the above.
+
+**66. Is the Organization acting in compliance with its Principles and Values?**
+
+- [ ] Low Compliance
+- [ ] Moderate Compliance
+- [ ] High Compliance
+- [ ] No compliance
+- [ ] None of the above
+
+2 points = check. 
+0 points = None of the above.
+
+**67. How does an Organization determine that a Member is eligible to participate in governance (voting, submitting proposals, etc.)?**
+
+- [ ] Completion of Trial period
+- [ ] Minimum Membership Age
+- [ ] As of joining the Organization
+- [ ] Minimum Financial Contribution
+- [ ] Minimum Number of Contributions
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+**68. How does the Organization receive feedback from Members on its activities?**
+
+- [ ] Surveys
+- [ ] Questionnaires
+- [ ] Interviews
+- [ ] End of year reviews
+- [ ] Annual or general meeting
+- [ ] During elections
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+
+**68. Are the Organization's contracts with third parties accessible to external stakeholders?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**69. Are the Organization's contracts with third parties accessible by the general public?**
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**70. Does the Organization have any informal roles?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+
+
+**71. How does the Organization advocate for Members to make ethical decisions? (Check all that apply)**
+
+- [ ] Code of Ethics
+- [ ] Access to advisory board about ethical decisions
+- [ ] Internal controls
+- [ ] None of the Above
+
+2 points = check. 
+0 points = None of the above.
+
+
+**72. How does the Organization advocate for Members to treat fellow Members with respect and civility? (Check all that apply)**
+
+- [ ] Code of Conduct 
+- [ ] Access to Dispute Resolution procedure
+- [ ] Code of Ethics
+- [ ] Norms and values
+- [ ] None of the above
+
+2 points = check. 
+0 points = None of the above.
+
+**73. Does the Organization instruct Members (Newcomer or Ongoing) on the Code of Conduct?**
+
+- [ ] Yes: as a Newcomer Member
+- [ ] Yes: as an Ongoing Member
+- [ ] Yes: on some time basis (e.g., annual) to Members
+- [ ] Yes: in response to a violation of the Code of Conduct
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+
+**74. Does the Organization instruct Members (Newcomer or Ongoing)     on the Code of Ethics?**
+
+- [ ] Yes: as a Newcomer
+- [ ] Yes: as an Ongoing
+- [ ] Yes: on some time basis (e.g., annual) to Members
+- [ ] Yes: in response to a violation of the Code of Ethics
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+**75. Does the Organization have its financial records reviewed or audited by an independent third party?**
+
+- [ ] Yes: Audited
+- [ ] Yes: Reviewed
+- [ ] Neither
+- [ ] None of the above
+
+Yes: Audited = 2
+Yes: Reviewed = 2
+Neither = 1
+None of the above = 0
+
+
+
+**76. Does the Organization utilize any of the following internal financial controls? (Check all that apply)**
+
+- [ ] Multi-sig cryptocurrency wallet (can segregate payment authorization and execution)
+- [ ] Access to credit is limited to appropriate personnel
+- [ ] Different access levels in IT systems based on position of member trying to access the data
+- [ ] Requiring certain security clearances or privileges in IT systems
+- [ ] Segregation of accounts receivable and accounts payable duties
+- [ ] Segregation of payment authorization, execution, and/or recordkeeping
+- [ ] None of the above
+
+2 points = check. Capped at 10 points
+0 points = None of the above.
+
+**77. What information does the Organization make available and transparent to the general public? (Check all that apply)**
+
+- [ ] Financial performance
+- [ ] Membership statistics
+- [ ] Mission and/or Goals performance
+- [ ] Members of Governing Bodies
+- [ ] Governance Rules and Procedures (i.e., Organization Blueprint)
+- [ ] Roadmap (Expected strategies and goals)
+- [ ] Strategic Documents 
+- [ ] Governing Bodies
+- [ ] Organizational Chart
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+
+**78. Does the Organization share financial information with Members? (Check all that apply)**
+
+- [ ] All financial information is disclosed to Members periodically (e.g., quarterly, monthly)
+- [ ] All financial information is always disclosed to Members 
+- [ ] No formal method for disclosing financial information to Members
+- [ ] Through an educational program for Members
+- [ ] At a general or annual meeting
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+**79. Does the Organization share information on its DGov performance with the general public? (Check all that apply)**
+
+- [ ] Sets targets publicly and publicly shares progress on targets
+- [ ] Sharing information on DGov programs and performance
+- [ ] Release of a formal report 
+- [ ] Does not report publicly on DGov performance
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+### Organization Identity
 Organization Identity (mission, principles and values, vision, objectives, culture (internal and external), social reputation, licenses outputs, and the like)
 ##### Culture
 
+**80. How restrictive is the Organization's licensing of its outputs (e.g., software, hardware)?**
 
-66. Please describe the Organization's norm of reciprocity, if any.
+- [ ] Free 
+- [ ] Open Source
+- [ ] All Rights Reserved    
+- [ ] None of the above
 
-- [ ] Commons Reciprocity
-- [ ] No recriprocity
-- [ ] Tit-for-Tat
+Free = 1 point
+Open Source = 2 points
+All Rights Reserved = 1 point
+0 points = None of the above
 
-67. How restrictive is the Organization's licensing of its outputs (e.g., software, hardware)?
-
-- [ ] 1 (Very Restrictive Licensing)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Very Permissive Licensing)
-68. How many events has the Organization hosted or sponsored related to its mission/purpose in the past year?
-- [ ] 0
+**81. How many events has the Organization hosted or sponsored related to its mission/purpose in the past year?**
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -788,9 +1214,23 @@ Organization Identity (mission, principles and values, vision, objectives, cultu
 - [ ] 5
 - [ ] 6
 - [ ] 7
-- [ ] 8 or more
-69. How many events has the Organization hosted or sponsored related to Web3.0 in the past year?
-- [ ] 0
+- [ ] 8 
+- [ ] 9 or more
+- [ ] None of the above
+
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+0 points = None of the above
+
+
+**82. How many events has the Organization hosted or sponsored related to its industry/domain in the past year?**
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -798,48 +1238,87 @@ Organization Identity (mission, principles and values, vision, objectives, cultu
 - [ ] 5
 - [ ] 6
 - [ ] 7
-- [ ] 8 or more
+- [ ] 8 
+- [ ] 9 or more
+- [ ] None of the above
 
-70. How many events has the Organization hosted or sponsored related to its industry/domain in the past year?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+0 points = None of the above
 
-71. Do Members of the Organization accept the existence of alternative views?
+**83. Do Members of the Organization accept the existence of alternative views within the Organization (i.e., accepting that there can be a plurality of views, but not necessarily agreement with all views)?**
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
-72. Does the Organization adhere to the Web3.0 principles and values?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-73. Does the Organization adhere to the Distributed Governance principles and values?
+**84. Does the Organization's formal mission statement mention any of the following? (Check all that apply)**
+
+- [ ] General or Specific commitment to adhering to DGov 
+- [ ] General or Specific commitment to a social or environmental impact
+- [ ] General or Specific commitment to operating as a specific type of organization
+- [ ] General or Specific commitment to a movement (Web3, Blockchain, Platform Cooperativism, Commons/P2P, etc.)
+- [ ] None of the above 
+
+**85. Does the Organization explicitly claim any of the following as a benchmark for success? (Check all that apply)**
+
+- [ ] Positive impact on society
+- [ ] Positive impact on the environment
+- [ ] Positive impact on the Web3 space
+- [ ] Positive impact on the wellbeing of Members
+- [ ] Positive impact on the finances
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above. 
+
+
+**86. Does the Organization explicitly state a commitment to diversity, equity and inclusion?**
+
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
-74. Does the Organization adhere to the Co-operative principles and values?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
+##### Data Usage and Privacy
 
+**87. Does the Organization have any of the following policies regarding data usage and privacy? (Check all that apply)**
+
+- [ ] Publicly available, formalized data and privacy policy
+- [ ] Customers can determine how their data will be used
+- [ ] Email listings are GDPR compliant
+- [ ] Organization does not collect sensitive information
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above. 
 
 ##### History
-93. Has the Organization ever had to deal with a hard-fork before?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
 
-94. How many rebrands has the Organization undergone?
+**88. Has the Organization ever had to deal with a split in the Organization for any of the following reasons? (Check all that apply)**
 
-- [ ] 0
+- [ ] Growth of oligarchic, unaccountable governance structure
+- [ ] Leadership failed to maintain appearance of legitimacy
+- [ ] Cultural split among Members of the Organization
+- [ ] Membership size became too large to effectively govern the Organization
+- [ ] Strategy/Direction split among Members of the Organization
+- [ ] Lack of leadership
+- [ ] Ineffective governance models
+- [ ] Ineffective operations models
+- [ ] Dispute arose among segments of the Membership
+- [ ] None of the above
+
+
+2 points = check. Capped at 10 points.
+0 points = None of the above. 
+
+**89. How many rebrands has the Organization undergone?**
+
 - [ ] 1
 - [ ] 2
 - [ ] 3
@@ -847,9 +1326,22 @@ Organization Identity (mission, principles and values, vision, objectives, cultu
 - [ ] 5
 - [ ] 6
 - [ ] 7
-- [ ] 8 or more
+- [ ] 8 
+- [ ] 9 or more
+- [ ] None of the above
 
-65. How long has the core team of contributors been with the Organization?
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+0 points = None of the above
+
+**90. How long has the core team of contributors been with the Organization?**
 - [ ] Less than 1 year
 - [ ] 1 year
 - [ ] 2 years
@@ -857,154 +1349,541 @@ Organization Identity (mission, principles and values, vision, objectives, cultu
 - [ ] 4 years
 - [ ] 5 years
 - [ ] More than 5 years
+- [ ] None of the above
 
-```
-Excluding for now. 
-Focus is less on how Org is interpeted by external environment
-```
+Less than 1 year = 1 point
+1 year = 2 points
+2 years = 3 points
+3 years = 4 points
+4 years = 5 points
+5 years = 6 points
+> 5 years = 7 points
+0 points = None of the above
 
-```
-##### Social Trust and Reputation
-81. Estimated number of partnerships the Organization has developed with Web 3.0-related organizations?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
+**91. Has the Organization amended its formal documents for any of the following reasons?**
 
-82. Does the Organization have any partnerships with a public entity?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-83. How many partnerships does the Organization have with public entities?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-84. Has the Organization hosted any Web 3.0 related events (including hackathons) in the past calendar year? If so, how many?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-85. What is the reputation of the Organization in the Organization's industry/domain? 
+- [ ] Documents were ineffective in achieving predetermined goals
+- [ ] Removing loopholes and vulnerabilities
+- [ ] Removing rights from a class(es) of internal stakeholders
+- [ ] Keeping formal documents up-to-date with changes in the Organization’s environment
+- [ ] Documents prohibited or inhibited effective governance
+- [ ] Adding a class(es) of internal stakeholders
+- [ ] To add an amendment procedure
+- [ ] Financial reasons
+- [ ] None of the above
 
-- [ ] 1 (Very Bad)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 
-- [ ] 9 (Very Good)
-86. How much political power does the Organization have in influencing standards, rules, regulations and their enforcement? (might be too tough to answer)
+2 points = check. Capped at 10 points. 
+0 points = None of the above.
 
-```
-Probably need to move question above
-```
-
-87. What is the reputation of the Organization in the Web 3.0 community?
-
-- [ ] 1 (Very Bad)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 
-- [ ] 9 (Very Good)
-
-88. Is the Organization a member of any political advocacy organization related to the mission or principles and values of the Organization or the Web 3.0 community?
+**92. Does the Organization have an amendment procedure outlined in its formal documents?**
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
+**93. How does the Organization monitor Managers for day-to-day operations to ensure they are working towards the Organization's goals? (Check all that apply)**
+
+- [ ] Periodic Electronic Communications (e.g., daily, weekly)
+- [ ] Posting updates to a datastore (e.g., mind maps, handbooks, blockchain, repositories)
+- [ ] Asynchronous communication (e.g., email)
+- [ ] Synchronous communication
+- [ ] Periodic Meetings (e.g., daily, weekly)
+- [ ] Publications of materials on official channels of communication
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+**94. Does the Organization have any of the following tokens? (if a token embodies one or more descriptions, please check all applicable descriptions) (Check all that apply)** 
 ```
-### Web3, Blockchain, OrgTech and Tokenization 
-72. What are the Web 3.0 technologies the Organization utilizes in its operations or governance? (Check all that apply)
-
-- [ ] Blockchain
-- [ ] InterPlantery File System
-- [ ] DAT
-- [ ] Zeronet
-- [ ] Scuttlebutt
-- [ ] Smart contracts
-- [ ] Fungible Tokens
-- [ ] Non-Fungible Tokens
-- [ ] Decentralized Applications
-
-73. Are any of the Organization's tokens traded on a decentralized exchange (DEX)? 
-
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-73. How many exchanges are currently listing (and actively tradeable) one or more of the Organization's tokens?
-
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more 
-
-
-74. Is the Organization using any of the following OrgTech Operating Systems?
-- [ ] Aragon
-- [ ] Colony
-- [ ] DAOstack
-- [ ] Edgeware
-- [ ] GovBlocks
-- [ ] DAOhaus
-
-75. Does the Organization have any of the following tokens? (if a token embodies one or more descriptions, please check all applicable descriptions). *Note: The Membership Token is for signifying membership affiliation, not for signifying any governance rights in the Organization.*
-- [ ] Governance Token
+*Note: The Membership Affiliation Token is for signifying membership affiliation, not for signifying any governance rights in the Organization.* 
+```
+- [ ] Governance Rights Token
 - [ ] Good or Service Token
 - [ ] Marketplace Token
-- [ ] Membership Token
+- [ ] Membership Affiliation Token
 - [ ] Ownership Token
+- [ ] None of the above
 
-76. Does the Organization employ any of the following crypto-primitives? 
+2 points = check. Capped at 10 points.
+0 points = None of the above.
 
-- [ ] Token Bonding Curve
-- [ ] Token Curated Registry
-- [ ] DeFi lego
-
-77. Are the Organization's smart contracts upgradable?
+**95. Does the Organization use an open value accounting method to track contributions and distribute value to Members?**
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
-78. How is the Organization using blockchain to tackle the principle-agency problem ?
 
-- [ ] Reduce monitoring cost (i.e., ensuring agent is acting inline with principle's interests)
+### Member Growth
 
-79. Does the Organization utilize a multi-signature (multisig) smart contract for Organization-owned Accounts? 
+**96. Can Members make any of the following contributions to the Organization? (Check all that apply)**
+- [ ] Labor
+- [ ] Resources
+- [ ] Knowledge
+- [ ] Event planning
+- [ ] Advertising/Promotion
+- [ ] Governance Proposals
+- [ ] Good or Service Proposal
+- [ ] Brand Proposal
+- [ ] Teaching
+- [ ] Training
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+0 points = None of the above.
+
+**97. Do Members of the Organization participate in furnishing or producing the Organization's goods and services?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**98. What is the number of active goods, services and/or  projects the Organization has undertaken in the past year?**
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8 
+- [ ] 9 or more
+- [ ] None of the above
+
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+0 points = None of the above
+
+**99. What is the number of inactive goods, services and/or  projects the Organization is no longer undertaking as of the past year?**
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8 
+- [ ] 9 or more
+- [ ] None of the above
+
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+0 points = None of the above
+
+**100. What is the number of planned goods, services and/or  projects the Organization expects to undertake?**
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8 
+- [ ] 9 or more
+- [ ] None of the above
+
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+0 points = None of the above
+
+**101. What is the number of projects the Organization has completed in the past year?**
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8 
+- [ ] 9 or more
+- [ ] None of the above
+
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+0 points = None of the above
+
+**102. How does the Organization aid Members in achieving their professional and career goals? (Check all that apply)**
+
+- [ ] Opportunities to apply skills to projects
+- [ ] Providing education and training opportunities
+- [ ] Helping Members find other career opportunities
+- [ ] Aiding Members to attend career-related events
+- [ ] Providing mentorship opportunities to Members
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+None of the above = 0
+
+**103. How does the Organization aid Members in achieving their personal goals? (Check all that apply)**
+
+- [ ] Opportunities to apply skills to projects
+- [ ] Aiding Member’s to achieve their personal missions
+- [ ] Providing mentorship opportunities to Members
+- [ ] None of the above
+
+2 points = check. Capped at 10 points.
+None of the above = 0
+
+**104. Is there an onboarding process for new Members of the Organization?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**105. What is the Newcomer Joining Rate  for the Organization?**
+
+- [ ] 1 - 10
+- [ ] 10 - 20
+- [ ] 20 - 50
+- [ ] 50 - 100
+- [ ] 100 - 200
+- [ ] 200 - 500
+- [ ] 500 - 1000
+- [ ] More than 1000
+- [ ] None of the above
+
+1 – 10 = 1 point
+10 – 20 = 2 points
+20 – 50 = 4 points
+50 – 100 = 6 points
+100 – 200 = 6 points
+200 – 500 = 4 points
+500 – 1000 = 2 points
+> 1000 = 1 point
+None of the above = 0 points
+
+**106. Are there opportunities for Newcomers to socialize with other Newcomers (e.g., Newcomer Orientation)?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**107. Are there opportunities for Newcomers to socialize with Ongoing Members?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**108. How do Members of the organization gain greater responsibility and decision-making rights in the Organization?**
+
+- [ ] Consistent quality contributions
+- [ ] Providing capital 
+- [ ] Running and winning in an election
+- [ ] Selected by a leader, manager, or governing body
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above 
+
+**109. How does the Organization provide professional growth opportunities for Members? (Check all that apply)**
+
+- [ ] Formal onboarding process for Newcomers
+- [ ] Offer ongoing training on core responsibilities to members for formal roles
+- [ ] Provide cross-skill training for career advancements or transitions
+- [ ] Provide non-career like-skill training
+- [ ] Budgeted for external professional development opportunities (e.g., conferences)
+- [ ] Provide reimbursements or programs for intensive continuing education credentials
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above 
+
+**110. How many training sessions are Newcomers required to undertake? (Check all that apply)**
+
+- [ ] One training session per week
+- [ ] One training session per month
+- [ ] One training session per day
+- [ ] One training session per year
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above 
+
+**111. How does the Organization engage its Members? (Check all that apply)**
+
+- [ ] Members can vote for members of Governing Bodies
+- [ ] Adoption of self-management principles
+- [ ] Formalized feedback and complaint mechanisms
+- [ ] Process(es) for Member input before making operational or strategic decision or changes
+- [ ] Organization tracks input/feedback/complaint mechanism and resolution/implementation rates
+- [ ] Organization conducts member engagement or satisfaction surveys on some time-based basis
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above 
+
+
+**112. Does the Organization have a formal document concerning Members collaborating with other Members?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**113. Can Members find and contact other Members through any of the following methods? (Check all that apply)**
+
+- [ ] Member Directory
+- [ ] Mailing List
+- [ ] Online Forum
+- [ ] Organization-only group on a social media platform
+- [ ] Wiki
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above 
+
+**114. Does the Organization have a formal document concerning Members collaborating with third parties?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+### Unorganized
+
+**115. Who bears the costs of project failures in the Organization? (Check all that apply)**
+
+- [ ] Organization
+- [ ] Proposing Member
+- [ ] Proposing Team
+- [ ] Working Team
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+**116. Can Members form their own working groups within the Organization?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**117. Can Members form their own committees within the Organization?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**118. Do the Organization’s legal documents have a choice of law or governing law clause?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**119. What are the exit costs for Members who want to leave the Organization? (Check all that apply)**
+
+- [ ] Ownership Cost (e.g., giving up equity)
+- [ ] Financial Cost (e.g., paying to leave)
+- [ ] None
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**120. What kinds of voting system does the Organization have? (Check all that apply)**
+
+- [ ] Weighted Voting 
+- [ ] One-to-One (1-1) Voting 
+- [ ] Delegated Voting (aka Proxy Voting)
+- [ ] Quadratic Voting
+- [ ] Conviction Voting
+- [ ] Ranked-choice
+- [ ] A method for multiple voting rounds
+- [ ] None
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**121. Does the Organization have any of the following safeguards to protect Members from liability for actions in furtherance of, and approved by, the Organization? (Check all that apply)**
+
+- [ ] Insurance
+- [ ] Contract (e.g., Exculpatory Agreements)
+- [ ] None
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**122. Does the Organization use any of the following metrics to measure the effectiveness of its governance? (Check all that apply)**
+
+- [ ] Voting Rate (number of votes / total number of eligible voters)
+- [ ] Equity Concentration 
+- [ ] Submitted Proposal Rates
+- [ ] Passed Proposal Rates
+- [ ] Total (Passed and Failed) Proposal Rates
+- [ ] Reputation Scores
+- [ ] None
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**123. How does the Organization determine who can execute a passed proposal? (Check all that apply)**
+
+- [ ] Executors stated in the proposal
+- [ ] Determined by a governing body
+- [ ] Determined by a vote of the Members
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**124. How many times can a Member re-introduce a failed proposal for consideration?**
+
+- [ ] 1 time
+- [ ] 2 times
+- [ ] 3 times
+- [ ] 4 times
+- [ ] 5 times
+- [ ] More than 5 times
+- [ ] None of the above
+
+2 points = check. 
+0 points = None of the above
+
+
+**125. Are there any penalties associated with reintroducing a failed proposal for consideration?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**126. Are proposals required to first be approved by one of the following entities before being presented for a vote by the Members?**
+
+- [ ] A governing body
+- [ ] A certain number of  approvals or showing of support from Members
+- [ ] A certain number of approvals or showing of support from non-Members
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**127. How long are proposals considered active in the Organization before they fail from lack of traction?** 
+
+- [ ] 1 – 2 weeks
+- [ ] 2 – 4 weeks
+- [ ] 4 – 6 weeks
+- [ ] 6 – 8 weeks
+- [ ] 8 – 10 weeks
+- [ ] 10 – 12 weeks
+- [ ] 12 – 14 weeks
+- [ ] 14 – 16 weeks
+- [ ] More than 16 weeks
+- [ ] As long as there is a certain number of approvals or showing of support from non-Members
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+**128. How are governing bodies held accountable by Members of the Organization?**
+
+- [ ] Oversight governing body (e.g., a board or committee)
+- [ ] Yearly review of activities submitted to Members or oversight governing body
+- [ ] Members can vote out members of the governing bodies (i.e., elections)
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**129. Can Members signal non-binding preferences, positions, or votes on proposals?**
 
 - [ ] Yes
 - [ ] No 
 - [ ] Unsure
 
-80. If you answered Yes to Question 79, how many multisig smart contracts does the Organization have?
+
+**130. Does the Organization specify the types of governance decisions, and the decision-making procedures thereto, that can be made?** 
+
+- [ ] Yes
+- [ ] No 
+- [ ] Unsure
+
+**131. Are there governance decisions that require any of the following voting requirements?**
+
+- [ ] Less than majority (<50%)
+- [ ] Simple Majority (>50%)
+- [ ] Supermajority (> 60%)
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+**132. Does the Organization have any special decision-making protocols in the case of an emergency?**
+
+- [ ] Yes
+- [ ] No 
+- [ ] Unsure
+
+**133. What are the signaling systems for proposals in the Organization?**
+
+- [ ] Binary (e.g., Yes/No)
+- [ ] Non-binary
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**134. How are Members of the Organization identified (i.e., common identifiers used in the organization)? (Check all that apply)**
+
+- [ ] Pseudonym
+- [ ] Public Key Cryptography
+- [ ] Email Address
+- [ ] Decentralized Identifiers
+- [ ] Digital Identifiers
+- [ ] Self-Sovereign Identifiers
+- [ ] Social Media Handle
+- [ ] Government Identification
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+**135. If a proposal is accepted, does the proposal need to go through additional rounds of review before becoming an official proposal?**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+
+**136. How many formal roles are there in the Organization?**
 
 - [ ] 1
 - [ ] 2
@@ -1015,614 +1894,185 @@ Probably need to move question above
 - [ ] 7
 - [ ] 8
 - [ ] 9 or more
+- [ ] None of the above
 
-81. If you answered Yes to Question 79, how many (and which roles) agents have control over the multisig account?
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+0 points = None of the above
+
+
+**137. Does the Organization have a formal procedure for creating, modifying or destroying groups? (e.g., working groups, governing bodies)**
+
+- [ ] Yes
+- [ ] No
+- [ ] Unsure
+
+**138. How many formal partnerships does the Organization  have?**
 
 - [ ] 1
 - [ ] 2
-- [ ] 3
+- [ ] 3	
 - [ ] 4
 - [ ] 5
 - [ ] 6
 - [ ] 7
 - [ ] 8
 - [ ] 9 or more
-82. Does the Organization have any resources to help deter 51% attacks on Layer 1?
+- [ ] None of the above
+
+1 = 1 point
+2 = 2 points
+3 = 3 points
+4 = 4 points
+5 = 5 points
+6 = 6 points
+7 = 7 points
+8 = 8 points
+9 or more = 9 points
+0 points = None of the above
+
+**139. Does the Organization  have a partnership with any of the following entities?**
+
+- [ ] Nonprofit Entity
+- [ ] Community Entity
+- [ ] Government Entity
+- [ ] For-profit Entity
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+**140. Does the Organization’s governance process describe any of the following regarding proposals? (Check all that apply)**
+
+- [ ] When a proposal is considered a draft
+- [ ] When a proposal is considered active
+- [ ] When a proposal is considered withdrawn
+- [ ] When a proposal is considered rejected
+- [ ] When a proposal is considered inactive
+- [ ] When a proposal is considered accepted
+- [ ] When a draft proposal is considered updated
+- [ ] When a proposal can be replaced by another proposal or by an updated version of the same proposal
+- [ ] When a proposal is considered final
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+**141. Does the Organization have any of the following categories of Members?**
+
+- [ ] Volunteers
+- [ ] Core staff
+- [ ] Advisors
+- [ ] None of the above
+
+2 points = check. Capped at 10 points. 
+0 points = None of the above
+
+
+**142. Does the Organization have any templates for governance processes?**
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
-83. Does the Organization have any plans in place to deal with Network Congestion?
-
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-84. Does the Organization use any third party Oracle (i.e., external data feed) providers? If so, please describe them. 
+**143. Is there a maximum (or cap) number of Members who can be part of the Organization?** 
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
-85. How many third party Oracles does the Organization use?
-
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-
-86. Does the Organization use any Organization-owned Oracles (i.e., external data feeds)? If so, please describe them. 
+**144. Can Members vote to freeze membership growth of the Organization?** 
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
-87. How many Organization-owned Oracles does the Organization use?
+**145. If the Organization makes a profit, how is the profit distributed? (Check all that apply)**
 
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
+- [ ] Equally among all Members
+- [ ] Based on stakeholder class: All stakeholders
+- [ ] Based on stakeholder class: Investors only
+- [ ] Based on stakeholder class: Workers only
+- [ ] Distributed to third parties
+- [ ] Saved in the Organization’s treasury
+- [ ] None of the above
 
-88. How does the Organization codify employment relationships through smart contracts?
+2 points = check. Capped at 10 points. 
+0 points = None of the above
 
-- [ ] It does not codify employment relationships
-- [ ] Staking (user deposits a stake, completes work, then gets stake back plus a reward; Otherwise, loses stake if work is not completed)
+Cannot select *Based on stakeholder class: All stakeholders* option and select *Based on stakeholder class: Investors only* or *Based on stakeholder class: Workers only*
 
-89. How does the Organization monitor agents for day-to-day operations to ensure they are working towards the Organization's goals?
+**146. What are the communication channels Members can use to deliberate and communicate with other Members about proposals? (Check all that apply)**
 
-- [ ] Daily Electronic Communications
-- [ ] Weekly Electronic Communications
-- [ ] Posting updates to a shared repository
-
-90. How does the Organization determine what types of decisions should be encoded in smart contracts?
-
-- [ ] Whether the information is public or private
-- [ ] The process is feasibly automatable on the blockchain
-
-91. How does the Organization determine when one or more Members should be able to override smart contract-executed decisions (i.e., post-execution)?
-
-- [ ] The smart contract is substantially harming the Organization
-- [ ] The smart contract is substantially causing Network Congestion 
-- [ ] The smart contract is not acting in accordance with previously determined course of action or decision
-
-92. Does the Organization consider low probability events (i.e., black swans) in its decision-making and smart contract development? 
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-
-
-
-### Goal Attainment
-77. Is the Organization making progress towards its mission?
-
-- [ ] 1 (Very Insignificant Progress) 
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 ( Very Significant Progress)
-78. What evidence do you have for the Organization making or not making progress towards its mission? (Check all that apply)
-
+- [ ] Email
+- [ ] Blog
 - [ ] Newsletter
-- [ ] News Articles
-- [ ] Blogs 
-- [ ] Press Releases
-- [ ] Metrics
-79. Is the Organization making progress towards goals other than its primary mission?
+- [ ] Social Media (e.g., Twitter)
+- [ ] Datastores (e.g., mind maps, handbooks, blockchain, repositories)
+- [ ] Forums (e.g., Discourse)
+- [ ] Messaging Application (e.g., Telegram)
+- [ ] Official Website
+- [ ] None of the above
 
-- [ ] 1 (Very Insignificant Progress) 
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Very Significant Progress)
-80. What evidence do you have for the Organization making or not making progress towards goals other than its primary mission? (Check all that apply)
+2 points = check. Capped at 10 points.
+0 points = None of the above
 
-- [ ] Newsletter
-- [ ] News Articles
-- [ ] Blogs 
-- [ ] Press Releases
-- [ ] Metrics
+**147. Does the Organization's proposal requirements discuss any of the following characteristics?**
 
+- [ ] Specificity
+- [ ] Breadth
+- [ ] Depth
+- [ ] Clarity
+- [ ] Length
+- [ ] Style
+- [ ] Format
+- [ ] Layout
+- [ ] Specific Language
+- [ ] None of the above
 
-```
-Exlcuding this section for now. 
-Feels like this may not be what people 
-are interested in concerning a Distributed Governance score. 
-(Though, very important to the OrgEffectiveness of an Organization)
-
-##### Social Trust and Reputation
-81. Estimated number of partnerships the Organization has developed with Web 3.0-related organizations?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-
-82. Does the Organization have any partnerships with a public entity?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-83. How many partnerships does the Organization have with public entities?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-84. Has the Organization hosted any Web 3.0 related events (including hackathons) in the past calendar year? If so, how many?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-85. What is the reputation of the Organization in the Organization's industry/domain? (a bit too open-ended)
-
-86. How much political power does the Organization have in influencing standards, rules, regulations and their enforcement? (might be too tough to answer)
-
-87. What is the reputation of the Organization in the Web 3.0 community?
-
-- [ ] 1 (Very Bad)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 
-- [ ] 9 (Very Good)
-
-88. Is the Organization a member of any political advocacy organization related to the mission or principles and values of the Organization or the Web 3.0 community?
-
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-```
-
-
-```
-Probably best to remove Org Capacity
-
-##### Organizational Capacity
-
-- **Organization Capacity (on- and off-chain assets, # of working personnel, # of non-member contributions, # of non-member contributors, # of funding rounds, amount of money raised in funding rounds, # of investors, diversity of investors, speializations of working personnel, # of partnerships with public and prviate entities, types of partnerships, number of departments)**
-
-91. How easy is it for non-members of the Organization (people who are not members of the Organization) to make contributions to the Organization?
-
-- [ ] 1 (Very Easy)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Very Hard)
-92. What are the general skills and abilities of Members in the Organization? (Check all that apply)
-- [ ] Information Technology
-- [ ] Financial
-- [ ] Cybersecurity
-- [ ] Data Science
-- [ ] Blockchain Programming
-- [ ] Smart Contract Programming
-- [ ] Marketing
-- [ ] Community Building/Outreach
-- [ ] Human Resources 
-- [ ] Administrative 
-- [ ] Token Engineering 
-- [ ] Strategy 
-- [ ] Mentorship
-- [ ] Web Development 
-- [ ] Software Engineering 
-- [ ] Graphic Design 
-- [ ] Research and Development
-94. What are the general skills and abilities the Organization desires from potential Members? (refer to job ads)
-
-- [ ] Information Technology
-- [ ] Financial
-- [ ] Cybersecurity
-- [ ] Data Science
-- [ ] Blockchain Programming
-- [ ] Smart Contract Programming
-- [ ] Marketing
-- [ ] Community Building/Outreach
-- [ ] Human Resources 
-- [ ] Administrative 
-- [ ] Token Engineering 
-- [ ] Strategy 
-- [ ] Mentorship
-
-96. Has the Organization recruited any high-level talent in the past year?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-97. Has the Organization received any grants or philanthropic donations in the past year? If so, please state the amount(s).
-- [ ] Less than $500
-- [ ] $500 - $1,000
-- [ ] $1,000 - $5,000
-- [ ] $5,000 - $10,000
-- [ ] $10,000 - $20,000
-- [ ] $20,000 - $50,000
-- [ ] $50,000 - $100,000
-- [ ] $100,000 - $500,000
-- [ ] More than $500,000
-
-98. How many funding rounds has the Organization held in the past 3 years?
-
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-
-99. How much funding has the Organization raised from funding rounds in the past 3 years?
-- [ ] Less than $500
-- [ ] $500 - $1,000
-- [ ] $1,000 - $5,000
-- [ ] $5,000 - $10,000
-- [ ] $10,000 - $20,000
-- [ ] $20,000 - $50,000
-- [ ] $50,000 - $100,000
-- [ ] $100,000 - $500,000
-- [ ] More than $500,000
-
-100. Are the majority of investors in the Organization part of the Web 3.0 community?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-101. Are the majority of investment rounds in the Organization conducted on-chain?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-102. How many Departments does the Organization have?
-
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 
-- [ ] 9 or more
-
-##### Assets
-5. Value of On-chain Assets Under Management (On-chain AUM)
-- [ ] Less than ~$10,000.00
-- [ ] ~$10,000.00 - $50,000.00
-- [ ] ~$50,000.00 - $100,000.00
-- [ ] ~$100,000.00 - $200,000.00
-- [ ] ~$200,000.00 - $500,000.00
-- [ ] ~$500,000.00 - $1,000,000.00
-- [ ] ~$1,000,000.00 - $5,000,000.00
-- [ ] ~$5,000,000.00 - $10,000,000.00
-- [ ] Greater than ~ $10,000,000.00
-6. Value of Off-chain Assets Under Management (Off-chain AUM)
-- [ ] Less than ~$10,000.00
-- [ ] ~$10,000.00 - $50,000.00
-- [ ] ~$50,000.00 - $100,000.00
-- [ ] ~$100,000.00 - $200,000.00
-- [ ] ~$200,000.00 - $500,000.00
-- [ ] ~$500,000.00 - $1,000,000.00
-- [ ] ~$1,000,000.00 - $5,000,000.00
-- [ ] ~$5,000,000.00 - $10,000,000.00
-- [ ] Greater than ~ $10,000,000.00
-
-7. Please describe the On-chain AUM held by the Organization.
-```
-
-```
-8. Please describe the Off-chain AUM held by the Organization.
-```
-
-```
-
-9. Please list the on-chain address(es) for the On-chain AUM
-```
-
-```
-```
-
-```
-Also exlcuding this section
-
-##### Production & Goods and Services
-
-(problem-solving process, knowledge-sharing, # of contributions/membership, diversity of contributions, # of active, inactive and planned goods, services, and/or products, ?use of independent contractors? )
-
-103. What goods and/or services does the Organization produce?
-
-- [ ] Financial Services
-- [ ] Fintech
-- [ ] Insurance 
-- [ ] Energy
-- [ ] Administrative
-- [ ] Healthcare 
-- [ ] Legal 
-- [ ] Cryptocurrency Wallets
-- [ ] Cryptocurrency Mining
-- [ ] Cryptocurrency Exchange 
-- [ ] Decentralized Applications
-- [ ] Compliance
-- [ ] Government Services
-104. What types of contributions can Members make to the Organization?
-- [ ] Software
-- [ ] Events
-- [ ] Advertising/Promotion
-- [ ] Initiative Proposals
-- [ ] Governance Proposals
-- [ ] Good or Service Proposal
-- [ ] Brand Proposal
-
-105. Does the Organization often employ independent contractors to complete tasks?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-106. Do Members of the Organization participate in furnishing or producing the Organization's goods and services?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-107. Are the majority of the Organization's activities conducted on-chain?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-108. The number of active goods, services and/or  projects the Organization is undertaking?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-
-109. The number of inactive goods, services and/or  projects the Organization is no longer undertaking?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-
-110. The number of planned goods, services and/or  projects the Organization expects to undertake?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-```
-### Member Growth
-
-104. What types of contributions can Members make to the Organization?
-- [ ] Software
-- [ ] Events
-- [ ] Advertising/Promotion
-- [ ] Initiative Proposals
-- [ ] Governance Proposals
-- [ ] Good or Service Proposal
-- [ ] Brand Proposal
-
-106. Do Members of the Organization participate in furnishing or producing the Organization's goods and services?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-108. The number of active goods, services and/or  projects the Organization is undertaking?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-
-109. The number of inactive goods, services and/or  projects the Organization is no longer undertaking?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-
-110. The number of planned goods, services and/or  projects the Organization expects to undertake?
-- [ ] 0
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8 or more
-
-111. How does the Organization aid Members in achieving their professional and career goals? (Check all that apply)
-
-- [ ] Opportuntiies to apply skills to projects
-- [ ] Assist Members obtain education and training
-- [ ] Helping Members find other career opportunities
-- [ ] Aiding Members to attend career-related events
-- [ ] Providing mentorship to Members
-
-112. How does the Organization aid Members in achieving their personal goals?
-
-- [ ] Opportuntiies to apply skills to projects
-- [ ] Supporting the Web3.0 movement
-- [ ] Providing mentorship to Members
-113. What are the roles Members can fulfill in the Organization?
-114. Is there an onboarding process for new Members of the Organization?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-115. What is the Newcomer Joining Rate for the Organization ?
-- [ ] 0
-- [ ] 1 - 10
-- [ ] 10 - 20
-- [ ] 20 - 50
-- [ ] 50 - 100
-- [ ] 100 - 300
-- [ ] 300 - 500
-- [ ] 500 - 1000
-- [ ] More than 1000
-
-116. Is the Newcomer Joining Rate as high as expected for this kind of Organization?
-
-- [ ] 1 (Not at all)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Very much so)
-117. Are there opportunities for Newcomers to socialize with other Newcomers (e.g., Newcomer Orientation)?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-118. Are there opportunities for Newcomers to socialize with pre-existing Members?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-119. How do Members of the organization gain greater responsibility and decision-making rights in the Organization?
-
-- [ ] Consistent quality contributions
-- [ ] Providing capital 
-- [ ] Running in an election
-- [ ] Selected by a leader, manager, or governing body
-
-120. How often does the Organization publish recruitment advertisements (e.g., job postings) to the public?
-
-- [ ] 1 (Very Rarely)
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9 (Very Often)
-121. Does the Organization offer mentorship opportunities for Newcomers?
-- [ ] Yes
-- [ ] No
-- [ ] Unsure
-
-
+2 points = check. Capped at 10 points.
+0 points = None of the above. 
 
 ## Scoring Guide
 
 How to score your answers to the instrument. 
+Procedure for scoring answers to the instrument. 
 
-### Yes/No/Unsure
+### General Procedure
+
+#### Yes/No/Unsure
 For *Yes/No/Unsure* questions, the scoring is as follows:
 
 - Yes = 2
 - No = 1
 - Unsure = 0
 
-### Likert Scale
-
-For (0-8) or (1-9) questions, these are based on a likert scale, with 0/1 being the lowest, and 8/9 being the highest. 
-
-The scoring is as follows for (1 - 9):
-
-- 1 = 1
-- 2 = 2
-- 3 = 3
-- 4 = 4
-- 5 = 5
-- 6 = 6
-- 7 = 7
-- 8 = 8
-- 9 = 9
-
-The scoring is as follows for (0 - 8):
-
-- 0 = 1
-- 1 = 2
-- 2 = 3
-- 3 = 4
-- 4 = 5
-- 5 = 6
-- 6 = 7
-- 7 = 8
-- 8 = 9
-
-### Multi-answer/Checkbox Questions (Check all that apply)
+#### Multi-answer/Checkbox Questions (Check all that apply)
 
 For questions that request you *"Check all that apply"*.
 
 The scoring is as follows:
 
-- 1 point for each option
-- Maximum points for each question is 12 points.
+- 2 points for each option
+- None of the above is 0 points
+- Maximum points for each question is 10 points.
 
-### Single-answer Questions
+#### Single-answer Questions
 
 For questions that only request a single answer, the scoring is as follows:
 
-- 
+- 2 points for selecting an option; otherwise
+- 0 points for selecting None of the above.
 
-### Questions to exclude
+### Scale
 
-Exclude the following questions when scoring the instrument:
+The scale is still being developed.
 
-- 
-
-### Rating Scale
-
-The rating scale for Organizations is between 
-
-Organizations with a high rating (above the half-way mark) are closer to the idealized form of DGov, while organizations with a low rating (below the half-way mark) are farther away from the ideadlized form of DGov. 
-
+Ideally, we want organizations to have scores above 80%. 
