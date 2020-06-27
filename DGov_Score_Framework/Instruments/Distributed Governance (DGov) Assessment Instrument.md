@@ -1,4 +1,4 @@
-# DGov Score Framework Rating Instrument_Essential
+# Distributed Governance Assessment Instrument (Formerly known as DGov Score Framework Rating Instrument_Essential)
 *For Framework Version 0.5* 
 [@ledgerback](https://twitter.com/ledgerback)
 @char
@@ -30,12 +30,8 @@ For anyone who want to test and validate the instrument, please do so and report
 
 ## Orientation
 
-- Organizational Forms
-    - Self-Management Organizations
-    - Community Organizations
-    - Cooperatives
-- Information
-    - Transparency
+**Transparency-oriented**. This instrument oriented towards transparency, as in accordance with the principles of distributed governance. Therefore, the more information that is avilabale to the public about an organization, the higher likelihood that that organization will receive a higher score.
+**Community-oriented**. This instrument is oriented towards community-like organizations. Therefore, the closer an organization is to the community idealtype, the higher likelihood that the organization will recieve a higher score.
 
 ## Project Management Board
 
