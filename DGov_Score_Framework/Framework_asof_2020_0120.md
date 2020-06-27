@@ -375,6 +375,66 @@ Can also redesign a method of the meta-score for comparing internal stakeholder 
 
 Can hypothesize if any variables lead to a particular outcome.
 
+
+# Fifth Revised Formalization [Framework Version 0.5](https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework-orgxp/112/50)
+
+## Purpose
+
+Framework Version 0.5 will clarify the usage of the framework for intra-firm and inter-firm analyses, and to make it easier for others to understand the multidimensionality and dynamism of organizations in DGov and Web3 overall.
+
+The Framework is intended to be a comprehensive framework for analyzing DGov organizations and should be utilized as such.
+
+Do not use the modules in isolation when analyzing a DGov organization.
+
+## Framework
+
+The Framework is divided into two parts:
+
+1. Intra-firm, and
+2. Inter-firm.
+
+Intra-firm focuses on analyzing the internal processes and dimensions of the organization, as well as the effectiveness of the organization as it relates to DGov (major focus on collaborative governance practicies).
+
+Inter-firm focuses on analyzing the viewpoint of external stakeholders of the organization, as well as the organization’s impact on the DGov landscape, and their impact on the blockchain network.
+
+### Intra-firm Modules
+
+The Intra-firm modules (previously referred to as metrics in the previous iterations of the framework) are the following (unchanged from Version 0.4):
+
+1. Organization Threshold
+2. Organization Classification
+3. (DGov) Organization Effectiveness
+
+The intended instrument to measure the 3 above modules is an all-in-one questionnaire with a 9-point likert scale.
+
+The calculation of the Intra-firm score will be based on a weighted-average formula.
+
+The final score will be achieved once we have at least 5 Intra-firm scores. Once 5 scores are present, we can then determine the correlation of each individual module, and make one comprehensive score from there. Alternatively, we can use the median score of the 5 scores.
+
+### Inter-firm Modules
+
+The Inter-firm modules (previously referred to as the Meta-score in the previous iterations) are the following:
+
+* External Stakeholder Opinion
+* Market-Concentration
+* Blockchain Network Operations Cost (e.g., percentage of gas fees)
+* Wealth-Concentration
+
+The intended instrument to measure the 3 above modules is an all-in-one questionnaire with a 9-point likert scale.
+
+The calculation of the Inter-firm score will be based on a weighted-average formula.
+
+The final score will be achieved once we have at least 5 Inter-firm scores. Once 5 scores are present, we can then determine the correlation of each individual module, and make one comprehensive score from there. Alternatively, we can use the median score of the 5 scores.
+
+### Combined DGov Score
+
+Once the Intra-firm and Inter-firm scores are determined, we can created a unified DGov Score.
+
+For example, we can base the unified score on simply adding the Intra-firm and Inter-firm scores. Alternatively, we can obtain the average of the Intra-firm and Inter-firm scores.
+[/quote]
+
+
+
 # References
 
 1. https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework/112?u=char
