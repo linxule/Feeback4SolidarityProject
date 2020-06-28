@@ -22,37 +22,8 @@ Additionally, we draw from the following areas in the grey literature:
 - Future of Work Movements
 - Open source project governance
 
-## Background Theory
 
-## Organization Science
-
-### Organization Effectiveness
-
-And some more information on Organization Effectiveness models in the literature:
-
-There are primarily four methods for measuring organization effectiveness. These are:
-
-1. Goal Attainment
-2. Systems Resources
-3. Internal Processes
-4. Multiple Constituency [[1] ](https://files.eric.ed.gov/fulltext/EJ1066736.pdf).
-
-Goal Attainment is focused on examining the outputs of an organization and whether it fits with the operating objectives of the organization, “like profit, innovation and finally product quality” [1].
-
-For example, for a for-profit org, maximizing profit is an objective the org should be striving for.
-
-Systems Resources is focused on the organization’s “ability to obtain necessary resources from the environments outside the organization” [1]. For example, the organizations’ ability to recruit competent candidates for positions.
-
-I think the community capitals framework makes more sense to use here because DGov promotes community/civic association like organizations (**Though, most of these organizations are often not dealing with a common pool resource or do not intend to aid in governing a blockchain**).
-
-Internal Processes is focused on whether “the organization is internally healthy and efficient and the internal processes and procedures in that place are quite well-oiled” [1]. If internal processes are good, then " [t]he members are completely part of the system and the system itself works smoothly. The relationship between the members is based on trust, honesty, and good will" [1]. And the information flows are horizontal and vertical [1]. Here, this model relates to whether the internal environment is “harmonious and efficient”, and transparency of organizations to the internal stakeholders by providing “timely and sufficient information” [1] [[2]](https://www.researchgate.net/publication/280238361_Organizational_Effectiveness_Models_Review_and_Apply_in_Non-Profit_Sporting_Organizations).
-
-The multiple constituency approach is focused on the minimal satisfaction of internal and external stakeholders (“constituents”) of the organization [1, 2]. For example, how a company satisfies the expectations of its employees who provide a service and users who utilize a service [1, 2].
-[/quote]
-
-
-
-## Our Conceptualizations
+## Our Current Models
 ### Organizations and Organizing 
 
 We draw primarily from the organization science and design literature to develop our model of organizations, a digital organization and a decentralized digital organizations (DDOs), and to craft the analytical  measures to assess distributed governance, algorithmic governance, and other areas of interest. 
@@ -149,7 +120,27 @@ The structure of an organization can be determined based on five dimensions:
 #### Organization Effectiveness
 
 
-Organization Effectiveness is defined as the extent to which the organization provides sustainable value (value  ascribed  by  a particular   stakeholder.) through the purposeful transformation of inputs and exchange  of  outputs, while  minimizing harm  from  its  actions. In other words, how effectively is the organization achievining its base organizational goals of (1) survivability and (2) maximization of returns.
+Organization Effectiveness can be defined as the extent to which the organization provides sustainable value (value  ascribed  by  a particular   stakeholder.) through the purposeful transformation of inputs and exchange  of  outputs, while  minimizing harm  from  its  actions. In other words, how effectively is the organization achievining its base organizational goals of (1) survivability and (2) maximization of returns.
+
+There are primarily four methods for measuring organization effectiveness. These are:
+
+1. Goal Attainment,
+2. Systems Resources,
+3. Internal Processes, and
+4. Multiple Constituency [[1] ](https://files.eric.ed.gov/fulltext/EJ1066736.pdf).
+
+Goal Attainment is focused on examining the outputs of an organization and whether it fits with the operating objectives of the organization, “like profit, innovation and finally product quality” [1].
+
+For example, for a for-profit org, maximizing profit is an objective the org should be striving for.
+
+Systems Resources is focused on the organization’s “ability to obtain necessary resources from the environments outside the organization” [1]. For example, the organizations’ ability to recruit competent candidates for positions.
+
+I think the community capitals framework makes more sense to use here because DGov promotes community/civic association like organizations (**Though, most of these organizations are often not dealing with a common pool resource or do not intend to aid in governing a blockchain**).
+
+Internal Processes is focused on whether “the organization is internally healthy and efficient and the internal processes and procedures in that place are quite well-oiled” [1]. If internal processes are good, then " [t]he members are completely part of the system and the system itself works smoothly. The relationship between the members is based on trust, honesty, and good will" [1]. And the information flows are horizontal and vertical [1]. Here, this model relates to whether the internal environment is “harmonious and efficient”, and transparency of organizations to the internal stakeholders by providing “timely and sufficient information” [1] [[2]](https://www.researchgate.net/publication/280238361_Organizational_Effectiveness_Models_Review_and_Apply_in_Non-Profit_Sporting_Organizations).
+
+The multiple constituency approach is focused on the minimal satisfaction of internal and external stakeholders (“constituents”) of the organization [1, 2]. For example, how a company satisfies the expectations of its employees who provide a service and users who utilize a service [1, 2].
+[/quote]
 
 # Analytical
 
