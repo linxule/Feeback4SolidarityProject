@@ -140,7 +140,7 @@ I think the community capitals framework makes more sense to use here because DG
 Internal Processes is focused on whether “the organization is internally healthy and efficient and the internal processes and procedures in that place are quite well-oiled” [1]. If internal processes are good, then " [t]he members are completely part of the system and the system itself works smoothly. The relationship between the members is based on trust, honesty, and good will" [1]. And the information flows are horizontal and vertical [1]. Here, this model relates to whether the internal environment is “harmonious and efficient”, and transparency of organizations to the internal stakeholders by providing “timely and sufficient information” [1] [[2]](https://www.researchgate.net/publication/280238361_Organizational_Effectiveness_Models_Review_and_Apply_in_Non-Profit_Sporting_Organizations).
 
 The multiple constituency approach is focused on the minimal satisfaction of internal and external stakeholders (“constituents”) of the organization [1, 2]. For example, how a company satisfies the expectations of its employees who provide a service and users who utilize a service [1, 2].
-[/quote]
+
 
 # Analytical
 
@@ -154,9 +154,9 @@ Additionally, we utilized existing instruments applicable to assessing organizat
 
 - BCorp Assessment Instrument
 - BCorp Questionniare
-- United States Green Building council (USGBC) LEEDv4.1 and point library
+- United States Green Building council (USGBC) LEEDv4.1 and points library
 - Organization Effectiveness instrument for nonprofit educational organizations
-- [Fitchett, L.L. (2019). The Roles of Local Organizations in Collaborative Resource Governance: A Qualitative Case Study of Lake Associations] (https://pdfs.semanticscholar.org/181f/05122f83102bac4cfb931b4fcfae15217c60.pdf) development of a three-step test for measuring organization effectiveness in the context of lake assoications (and in general for organizations that deal with CPRs).
+- [Fitchett, L.L. (2019). The Roles of Local Organizations in Collaborative Resource Governance: A Qualitative Case Study of Lake Associations](https://pdfs.semanticscholar.org/181f/05122f83102bac4cfb931b4fcfae15217c60.pdf) development of a three-step test for measuring organization effectiveness in the context of lake assoications (and in general for organizations that deal with CPRs).
 - Metacritic's metascore method
 - [Wiki Surveys: Open and Quantifiable Social Data Collection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123483)
 
@@ -237,3 +237,7 @@ In other words, OrgTech is the tech-centric rules and regulations geared towards
 I believe that DGov and OrgTech should be separated into two concepts because of their different purposes and objectives. Furthermore, there may be instances when OrgTech is used to increase organizational management efficiency, but without DGov practices such as in the case of a very centralized, hierarchical organization that utilizes OrgTech (e.g., Creating a DAO via Aragon that primarily focuses on funding for the creator's sole benefit) which provides greater transparency, but not greater member participation in decision-making.
 
 # Reading List
+
+1. [Murray, Alex & Kuban, Scott & Josefy, Matt & Anderson, Jon. (2019). Contracting in the Smart Era: The Implications of Blockchain and Decentralized Autonomous Organizations for Contracting and Corporate Governance. 10.5465/amp.2018.0066.](https://www.researchgate.net/publication/332472143_Contracting_in_the_Smart_Era_The_Implications_of_Blockchain_and_Decentralized_Autonomous_Organizations_for_Contracting_and_Corporate_Governance)
+2. [Fitchett, L.L. (2019). The Roles of Local Organizations in Collaborative Resource Governance: A Qualitative Case Study of Lake Associations](https://pdfs.semanticscholar.org/181f/05122f83102bac4cfb931b4fcfae15217c60.pdf) development of a three-step test for measuring organization effectiveness in the context of lake assoications (and in general for organizations that deal with CPRs).
+3. [Wiki Surveys: Open and Quantifiable Social Data Collection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123483)
