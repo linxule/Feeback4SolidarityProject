@@ -226,18 +226,20 @@ The Banzhaf power index of a player P is the number of times the player is criti
 ---
 ### Distributed Governance (DGov) and Organiz[ing/ational/ation] Technology (OrgTech) should be considered two separate but related concepts because DGov refers to the human-centric (or social side) of organizations, while OrgTech refers to the techno-centric (i.e., machine-side, algorithmic-side) of organizations 
 
-DGov should refer to the governance system of transparency, participatory decision-making, non-hierarchical structures (principles and values, structure), with a high level of asynchronous communication, modular tasks, and mostly online (rarely face-to-face) interaction (practices) among organization members. Primarily, the goal of DGov is to increase member participation and commitment to the organization by giving members more say (or equal say) and buy-in in the decision-making processes, and increasing transparency so that members are more informed about the organization’s affairs (i.e., increasing knowledge-sharing and -access among members). At the end of the day, it is about giving people more say and information about the organizations they are involved in and to build a more harmonious social environment (a la sociocracy).
+> DGov should refer to the governance system of transparency, participatory decision-making, non-hierarchical structures (principles and values, structure), with a high level of asynchronous communication, modular tasks, and mostly online (rarely face-to-face) interaction (practices) among organization members. Primarily, the goal of DGov is to increase member participation and commitment to the organization by giving members more say (or equal say) and buy-in in the decision-making processes, and increasing transparency so that members are more informed about the organization’s affairs (i.e., increasing knowledge-sharing and -access among members). At the end of the day, it is about giving people more say and information about the organizations they are involved in and to build a more harmonious social environment (a la sociocracy).
 
-In other words, DGov is the human-centric principles, values, and practices geared towards the blockchain space.
+> In other words, DGov is the human-centric principles, values, and practices geared towards the blockchain space.
 
-OrgTech should refer to technologies and protocols built for organizational management, primarily on blockchains, to help reduce instances of principal-agency failure, increase organizational management efficiency and achieve associated cost-savings, and increase compliance with internal rules, policies and procedures.
+> OrgTech should refer to technologies and protocols built for organizational management, primarily on blockchains, to help reduce instances of principal-agency failure, increase organizational management efficiency and achieve associated cost-savings, and increase compliance with internal rules, policies and procedures.
 
 In other words, OrgTech is the tech-centric rules and regulations geared towards the blockchain space.
 
 I believe that DGov and OrgTech should be separated into two concepts because of their different purposes and objectives. Furthermore, there may be instances when OrgTech is used to increase organizational management efficiency, but without DGov practices such as in the case of a very centralized, hierarchical organization that utilizes OrgTech (e.g., Creating a DAO via Aragon that primarily focuses on funding for the creator's sole benefit) which provides greater transparency, but not greater member participation in decision-making.
 
-# Reading List
+# Reading List and References
 
 1. [Murray, Alex & Kuban, Scott & Josefy, Matt & Anderson, Jon. (2019). Contracting in the Smart Era: The Implications of Blockchain and Decentralized Autonomous Organizations for Contracting and Corporate Governance. 10.5465/amp.2018.0066.](https://www.researchgate.net/publication/332472143_Contracting_in_the_Smart_Era_The_Implications_of_Blockchain_and_Decentralized_Autonomous_Organizations_for_Contracting_and_Corporate_Governance)
 2. [Fitchett, L.L. (2019). The Roles of Local Organizations in Collaborative Resource Governance: A Qualitative Case Study of Lake Associations](https://pdfs.semanticscholar.org/181f/05122f83102bac4cfb931b4fcfae15217c60.pdf) development of a three-step test for measuring organization effectiveness in the context of lake assoications (and in general for organizations that deal with CPRs).
 3. [Wiki Surveys: Open and Quantifiable Social Data Collection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123483)
+4. [Are blockchain voters ‘dummies’?](https://blog.coinfund.io/are-blockchain-voters-dummies-4a89a376de69)
+5. [Engineering for deliberative democracy](https://medium.com/participo/engineering-for-deliberative-democracy-45f3f34f36e2)
