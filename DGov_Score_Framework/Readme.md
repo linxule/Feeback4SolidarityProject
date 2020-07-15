@@ -20,3 +20,6 @@ Thank you *HEXpumpsETH3* for your donation.
 - [DGov Foundation](https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework-orgxp/112)
   - Primarily for discussion
 
+## Litepapers/Slidedecks
+
+- [DGov Score Framework Litepaper_asof_2020_0627](https://docs.google.com/presentation/d/17q6qePk22Q5hBndR69BDPd4IQ8uYUWXtcZBrzPes8Pw/edit?usp=sharing)
