@@ -232,9 +232,9 @@ The Banzhaf power index of a player P is the number of times the player is criti
 
 > OrgTech should refer to technologies and protocols built for organizational management, primarily on blockchains, to help reduce instances of principal-agency failure, increase organizational management efficiency and achieve associated cost-savings, and increase compliance with internal rules, policies and procedures.
 
-In other words, OrgTech is the tech-centric rules and regulations geared towards the blockchain space.
+> In other words, OrgTech is the tech-centric rules and regulations geared towards the blockchain space.
 
-I believe that DGov and OrgTech should be separated into two concepts because of their different purposes and objectives. Furthermore, there may be instances when OrgTech is used to increase organizational management efficiency, but without DGov practices such as in the case of a very centralized, hierarchical organization that utilizes OrgTech (e.g., Creating a DAO via Aragon that primarily focuses on funding for the creator's sole benefit) which provides greater transparency, but not greater member participation in decision-making.
+> I believe that DGov and OrgTech should be separated into two concepts because of their different purposes and objectives. Furthermore, there may be instances when OrgTech is used to increase organizational management efficiency, but without DGov practices such as in the case of a very centralized, hierarchical organization that utilizes OrgTech (e.g., Creating a DAO via Aragon that primarily focuses on funding for the creator's sole benefit) which provides greater transparency, but not greater member participation in decision-making.
 
 # Reading List and References
 
@@ -243,3 +243,8 @@ I believe that DGov and OrgTech should be separated into two concepts because of
 3. [Wiki Surveys: Open and Quantifiable Social Data Collection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123483)
 4. [Are blockchain voters ‘dummies’?](https://blog.coinfund.io/are-blockchain-voters-dummies-4a89a376de69)
 5. [Engineering for deliberative democracy](https://medium.com/participo/engineering-for-deliberative-democracy-45f3f34f36e2)
+6. [Collaborative organizational forms: on communities, crowds, and new hybrids](https://jorgdesign.springeropen.com/articles/10.1186/s41469-018-0036-3)
+7. [Algorithmic governance](https://policyreview.info/concepts/algorithmic-governance)
+8. [Transparency and Algorithmic Governance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3293008)
+9. [Bitcoin and the Rise of Decentralized Autonomous Organizations](https://www.researchgate.net/publication/326816667_Bitcoin_and_the_Rise_of_Decentralized_Autonomous_Organizations)
+10. [Distributed Governance in Multi-Sided Platforms](https://www.researchgate.net/publication/317124709_Distributed_Governance_in_Multi-Sided_Platforms)
