@@ -239,7 +239,7 @@ The Banzhaf power index of a player P is the number of times the player is criti
 # Reading List and References
 
 1. [Murray, Alex & Kuban, Scott & Josefy, Matt & Anderson, Jon. (2019). Contracting in the Smart Era: The Implications of Blockchain and Decentralized Autonomous Organizations for Contracting and Corporate Governance. 10.5465/amp.2018.0066.](https://www.researchgate.net/publication/332472143_Contracting_in_the_Smart_Era_The_Implications_of_Blockchain_and_Decentralized_Autonomous_Organizations_for_Contracting_and_Corporate_Governance)
-2. [Fitchett, L.L. (2019). The Roles of Local Organizations in Collaborative Resource Governance: A Qualitative Case Study of Lake Associations](https://pdfs.semanticscholar.org/181f/05122f83102bac4cfb931b4fcfae15217c60.pdf) development of a three-step test for measuring organization effectiveness in the context of lake assoications).
+2. [Fitchett, L.L. (2019). The Roles of Local Organizations in Collaborative Resource Governance: A Qualitative Case Study of Lake Associations](https://pdfs.semanticscholar.org/181f/05122f83102bac4cfb931b4fcfae15217c60.pdf) (development of a three-step test for measuring organization effectiveness in the context of lake assoications).
 3. [Wiki Surveys: Open and Quantifiable Social Data Collection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123483)
 4. [Are blockchain voters ‘dummies’?](https://blog.coinfund.io/are-blockchain-voters-dummies-4a89a376de69)
 5. [Engineering for deliberative democracy](https://medium.com/participo/engineering-for-deliberative-democracy-45f3f34f36e2)
@@ -249,3 +249,4 @@ The Banzhaf power index of a player P is the number of times the player is criti
 9. [Bitcoin and the Rise of Decentralized Autonomous Organizations](https://www.researchgate.net/publication/326816667_Bitcoin_and_the_Rise_of_Decentralized_Autonomous_Organizations)
 10. [Distributed Governance in Multi-Sided Platforms](https://www.researchgate.net/publication/317124709_Distributed_Governance_in_Multi-Sided_Platforms)
 11. [Evaluating Organizational Effectiveness](https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=1795&context=dissertations)
+12. [Dear Blockchain, You were not the first decentralized network](https://medium.com/swlh/dear-blockchain-you-were-not-the-first-decentralized-network-65a37b5ed393)
