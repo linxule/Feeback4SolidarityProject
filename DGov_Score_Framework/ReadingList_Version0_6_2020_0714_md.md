@@ -11,6 +11,7 @@
 	- [World Corporate Governance Index](http://www.saharating.com/~saharati/en/world-corporate-governance-index/)
 	- [2.5 Rating agencies: corporate governance indices](https://www.open.edu/openlearn/money-management/management/business-studies/influences-on-corporate-governance/content-section-2.5)
 	- [Corporate Governance Indices and Construct Validity](https://www.researchgate.net/publication/318189815_Corporate_Governance_Indices_and_Construct_Validity)
+	- [GOVERNANCE QUALITYSCORE](https://www.issgovernance.com/esg/ratings/governance-qualityscore/)
 - LEED
 	- [LEED Rating System](https://www.usgbc.org/leed)
 	- [LEED V4.1](https://www.usgbc.org/leed/v41)
