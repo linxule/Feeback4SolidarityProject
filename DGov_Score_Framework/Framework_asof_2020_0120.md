@@ -527,17 +527,28 @@ The Ecosystem Module (EM) is separated into the following components:
 - Platform Governance
 - Platform Design
 - Resource/Project Governance
-* Market-Concentration (think anti-trust)
-* Wealth-Concentration
+- Market-Concentration (think anti-trust)
+- Wealth-Concentration
 - Resource Usage (encompasses Blockchain Network Operations Cost (e.g., percentage of gas fees) from version 0.5)
 - Investment Capacity (e.g., number of fundraising rounds and amount of funds raised)
-- Exchanges (e.g., the number of goods sold or services provided, interactions with external parties (e.g., partnerships))
+- Exchanges (e.g., the number and quality of goods sold or services provided, interactions with external parties (e.g., partnerships))
 - Community Capital
 - External Influence
 
 Currently, there are no instruments developed for the EM. 
 
 If you would like to develop an instrument for the EM, please do so. 
+
+#### Interaction with other Frameworks and Tools
+
+The DGSF is designed to interoperate with other frameworks covering digital organizations, internet-native communities, distributed governance, collaborative governance, and  internet governance.
+
+For example, the DGSF can be used in conjunction with the Wharton Cryptogovernance Workshop Questionniare to measure stakeholders for:
+
+- resource governance and management (under EM), and
+- organization governance and management (under OM).
+
+Additionally, the DGSF can interoperate with the DeFi Score by Consensys as an instrument for DeFi indutry, market and exchanges performance for DeFi-related projects under EM, while the DeFi-related project, if an organization, can be analyzed under OM.
 
 # References
 
