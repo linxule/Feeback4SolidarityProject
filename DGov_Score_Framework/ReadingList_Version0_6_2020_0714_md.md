@@ -40,3 +40,13 @@ and transparency](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624262
 	- "Participatory algorithm design"
 - [Polis Algorithms](https://roamresearch.com/#/app/polis-methods/page/ciPWF73Ss)
 - [Wiki surveys: Open and quantifiable social data collection by Matthew J. Salganik, Karen E. C. Levy](https://arxiv.org/abs/1202.0500)
+
+Need additional reading materials for the following:
+
+- Platform Governance
+- market-concentration (measurement tools)
+- community-capitals framework
+- Platform Design
+- Wealth concentration (e.g., Gini coefficeint) (non-resources)
+- Resource concentration
+- Open Source project governance
