@@ -431,9 +431,113 @@ The final score will be achieved once we have at least 5 Inter-firm scores. Once
 Once the Intra-firm and Inter-firm scores are determined, we can created a unified DGov Score.
 
 For example, we can base the unified score on simply adding the Intra-firm and Inter-firm scores. Alternatively, we can obtain the average of the Intra-firm and Inter-firm scores.
-[/quote]
 
 
+# Sixth Revised Formalization [Framework Version 0.6]
+
+## Reasons for update
+
+The Framework is being udpated to Version 0.6 because we are adding evaluation and algorithmic governance to the theoretical background. 
+
+Additionally, this version will better clarify the difference between the theoretical framework and the analytical framework of the DGSF than described in the past versions of the Framework, which mostly focused on the analytical side. 
+
+
+## Framework Goals
+
+The goals of the Framework are centered on theoretical and empirical research, education and community outreach. 
+
+The theoretical research goals are to:
+
+- determine the conceptualization of an organization
+- determine the types of organizations
+- determine whether a DAO is a novel form of organizing
+- determine the meaning, attributes and practices of distributed governance and algorithmic governance
+- determine governance methods for digital organizations
+- determine what is a digital organization and a decentralized digital organization
+
+The empirical research goals are to:
+
+- compare and contrast organizations based on their organizational attributes and features
+- determine how to evaluate an organization based on their interaction with their external environmetn and impact on the greater system
+- analyze organizations to determine their organizational type
+- determine how effective an organization is taking into consideration the goals of distributed governance and algorithmic governance
+
+The education goals are to:
+
+- better inform the DGov community of academic research 
+- help DGov community members understand organizations and governance
+- help DGov community members evaluate organizations and governance
+
+The community goals are to:
+
+- connect academic and grey literature, and scholars (professional or citizen) in the DGov community 
+- connect Future of Work movements with the development of DAOs in the Web3 space
+
+## Theoretical Framework
+
+Refer to the Background Theory.
+
+The theoretical framework covers organizations, governance, voting, ownership, management, member relationships, and other related matters.
+
+The theoretical framework is primarily based on the research literature in discplines related to the DGSF, taken with an interdiscplinary approach.
+
+## Analytical Framework
+
+The analytical framework is for measuring subjects based on some characteristic(s). In contrast to the theoretical frameowrk, the analytical framework primarily draw from industry, community and business analytical tools. 
+
+
+### Combining Theoretical and Analytical Frameworks (i.e., Praxis Framework)
+
+This takes on a praxis approach as we take theory and attempt to apply it to real-world subjects, and the feedback loops that occur from measuring real-world subjects and feedback from community members and subjects to update the practical application of the Framework. 
+
+The theory provides the basis for understanding the area, the analytical provides the basis for measuring the subjects, and putting both together, we can then understand the context of the subejcts we are measuring and if possible, to extrapolate our measurements to other areas and subjects. 
+
+This combination has led to the development of the Intra-firm (*Internal*) modules and the Inter-firm (*External*) modules. 
+
+The Inter-firm modules can be thought of similar to ecosystem or ecological view of an organization. In this module, we focus on how the organization relates with other organizations and their environment(s).  
+
+The Intra-firm modules can be thought of similar to viewing an organization as an organism or a part of a system. In this module, we focus on how the organization relates to itself through the functioning of its parts. 
+
+For version 0.6, the Intra-firm module will be renamed as the Organization module and the Inter-firm module will be renamed as the Ecosystem module. 
+
+#### Organization Module
+
+The Organization Module (OM) is separated into the following components:
+
+1. Organization Threshold
+2. Organization Typology/Design (formerly Organization Classification)
+3. Organization Effectiveness
+4. Organization Governance (since our focus is on distributed governance, we often term this as distributed governance)
+5. Organization Management
+
+We often group Organization Governance and Organization Management together, and this is shown in the instruments. 
+
+The instruments for the OM are:
+
+- Organization Governance and Management Questionnaire (OGMQ)
+- Distributed Governance Assessment Instrument (DGAI)
+- Algorithmic Governance Assessment Instrument (AGAI)
+- Organization Effectiveness Evaluation Tool (OEET)
+- Organization Typology Checklist (OTC)
+
+#### Ecosystem Module
+
+The Ecosystem Module (EM) is separated into the following components:
+
+- Platform Governance
+- Platform Design
+- Resource/Project Governance
+* Market-Concentration (think anti-trust)
+* Wealth-Concentration
+- Resource Usage (encompasses Blockchain Network Operations Cost (e.g., percentage of gas fees) from version 0.5)
+- Investment Capacity (e.g., number of fundraising rounds and amount of funds raised)
+- Exchanges (e.g., the number of goods sold or services provided, interactions with external parties (e.g., partnerships))
+- Community Capital
+- External Influence
+
+Currently, there are no instruments developed for the EM. 
+
+If you would like to develop an instrument for the EM, please do so. 
 
 # References
 
