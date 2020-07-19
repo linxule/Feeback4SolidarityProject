@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DGov_Score_Framework/Analytical/Readme.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,5 +71,8 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "DGov_Score_Framework/Analytical/Readme.md",
+    "DGov_Score_Framework/Analytical/Inter-firm_Measures.md"
+  ]
 }
