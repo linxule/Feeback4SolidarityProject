@@ -1,0 +1,28 @@
+# Documentation
+- Tutorials
+- Education
+- Research methodologies (literature review, data collection, data analysis, artifact development, case study)
+- Testing and validation (construct and reliability)
+- Sample case study (of a blockchain cooperative, digital organization, DAO, and a DDO)
+- Outcomes (set of analytical tools, educational guides, certification and accreditation program, webinars, dashboard, research paper, also refer to CodeFi from Consensys, commercializations)
+- Bibliographies
+- Notes
+- Litepapers/ Slidedecks
+- Sample use-cases
+- Teams and other parties involved
+- FAQs
+- Reading Club (via Hypotheis)
+- Funding
+	- Sponsorship
+- Licensing
+	- Commercialization
+- External group:
+	- Distribtued Governance Collaborative or Task Force
+- Mention DCRC on all docs
+- Framework
+	- refer to Nesta's social innovation index
+	- Need to describe the split between a theoretical framework and analytical framework
+- Volunteer policy
+- Meetings
+  - Jitsi
+
