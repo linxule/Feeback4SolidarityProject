@@ -9,6 +9,17 @@ The name "DGov Score" and the continuation of work from Project Statis was intia
 
 If you would like to contribute to the Framework, please create a pull request with your amendments (e.g., addition, deletion, modification) and ask to have the pull request be added to the master branch. 
 
+## Contributors
+
+### DGov Score Framework
+
+- Charles Adjovu
+
+### Project Statis
+
+- Charles Adjovu
+- Afonso Casanova
+
 ## Gitcoin Grant
 
 You can support our work by making a donation on our [Gitcoin Grant](https://gitcoin.co/grants/715/dgov-score-framework?tab=contributors).
