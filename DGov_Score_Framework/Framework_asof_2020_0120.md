@@ -498,7 +498,9 @@ The Inter-firm modules can be thought of similar to ecosystem or ecological view
 
 The Intra-firm modules can be thought of similar to viewing an organization as an organism or a part of a system. In this module, we focus on how the organization relates to itself through the functioning of its parts. 
 
-For version 0.6, the Intra-firm module will be renamed as the Organization module and the Inter-firm module will be renamed as the Ecosystem module. 
+For version 0.6, the Intra-firm module will be renamed as the Organization module and the Inter-firm module will be renamed as the Ecosystem module.
+
+Additionally, one more module will be added, the Global Module, to take into account global characteristics upon which the organization and associated ecosystem are or can be subjected to. 
 
 #### Organization Module
 
@@ -509,6 +511,7 @@ The Organization Module (OM) is separated into the following components:
 3. Organization Effectiveness
 4. Organization Governance (since our focus is on distributed governance, we often term this as distributed governance)
 5. Organization Management
+6. Organization Capacity
 
 We often group Organization Governance and Organization Management together, and this is shown in the instruments. 
 
@@ -538,6 +541,10 @@ The Ecosystem Module (EM) is separated into the following components:
 Currently, there are no instruments developed for the EM. 
 
 If you would like to develop an instrument for the EM, please do so. 
+
+#### Global Module
+
+TBD.
 
 #### Interaction with other Frameworks and Tools
 
