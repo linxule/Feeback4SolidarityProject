@@ -42,6 +42,7 @@ and transparency](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624262
 - [Polis Algorithms](https://roamresearch.com/#/app/polis-methods/page/ciPWF73Ss)
 - [Wiki surveys: Open and quantifiable social data collection by Matthew J. Salganik, Karen E. C. Levy](https://arxiv.org/abs/1202.0500)
 - [Universalia Institutional and Organizational Assessment Model (IOA Model)](http://www.reflectlearn.org/discover/universalia-institutional-and-organizational-assessment-model-ioa-model)
+---
 Need additional reading materials for the following:
 
 - Platform Governance
