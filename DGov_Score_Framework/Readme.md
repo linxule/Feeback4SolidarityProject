@@ -1,7 +1,9 @@
 ## Purpose
 The DGov Score Framework ("Framework", "DGSF", "DGov Score") is a further formalization of our preliminary research under Project Statis, which we undertook from May - July 2019, and continuation of this work is inspired by the DeFi Score, developed by Researchers at Consenys.
 
-The Framework is a theoretical and analytical framework (analytical mostly leads to point-based analytic tools) for evalauting the organizational design of digital organizations (can also include the concept of virtual organizations), with an emphasis on the blockchain and Web3 ecosystem and connecting this ecosystem with more traditional digital organizations. 
+The Framework is a theoretical and analytical framework (analytical mostly leads to point-based analytic tools) for evalauting the organizational design of digital organizations (i.e., virtual organizations), with an emphasis on *future of work* digital organizations, and digital organizations in the blockchain and Web3 ecosystems.
+
+The Framework aims to help external and internal stakeholders define, design and assess digital organizations, within and outside of the digital organization.
 
 The name "DGov Score" and the continuation of work from Project Statis was intially conceived on the DGov Foundation forums.
 
@@ -13,12 +15,13 @@ If you would like to contribute to the Framework, please create a pull request w
 
 ### DGov Score Framework
 
-- Charles Adjovu
+- Charles Adjovu, DCRC
+- Xule Lin
 
 ### Project Statis
 
-- Charles Adjovu
-- Afonso Casanova
+- Charles Adjovu, DCRC
+- Afonso Casanova, DCRC (formerly)
 
 ## Gitcoin Grant
 
