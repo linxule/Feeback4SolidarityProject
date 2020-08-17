@@ -523,6 +523,8 @@ The instruments for the OM are:
 - Organization Effectiveness Evaluation Tool (OEET)
 - Organization Typology Checklist (OTC)
 
+:memo: The DGAI will be separated into two instruments: 1) Distributed Governance and 2) Decentralized Organizing. 
+
 #### Ecosystem Module
 
 The Ecosystem Module (EM) is separated into the following components:
