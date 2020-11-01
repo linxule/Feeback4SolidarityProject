@@ -43,12 +43,11 @@ Open systems model of organizations.
 Target Areas:
 
 - org performance (i.e., org effectiveness)
-- org design (also focus on diference between dsitribution and decentralization)
+- org design 
 	- governance
 	- organizing patterns
 		- organization classification
-	- core technology (based on decentralization and dsitribution?)
-		- https://t.co/DnUcuFVBGL?amp=1
+	- core technology 
 
 ### Where Target Areas are applied
 
@@ -140,6 +139,10 @@ You can also support us by talking about the AGMF with your friends or colleague
 ## Articles
 
 1. [Evaluating For Distributed Governance in Internet-Native/Digital Organizations](https://medium.com/alternative-governance-network/evaluating-for-distributed-governance-in-internet-native-digital-organizations-23423b261238)
+
+# Informative Articles to understand the AGMF
+
+1. [Decentralized vs. Distributed Organization: Blockchain, Machine Learning, and the Future of the Digital Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694706)
 
 # Upcoming Work 
 
