@@ -31,6 +31,7 @@ For infrastructure or base structure communities such as blockchain communities,
 - technology governance 
 - blockchain technology 
 - decentralization 
+- open source software
 
 # Current Models
 
