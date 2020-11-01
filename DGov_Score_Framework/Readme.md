@@ -124,6 +124,11 @@ You can also support us by talking about the AGMF with your friends or colleague
 1. Charles Adjovu, LedgerbackØDCRC
 2. Afonso Casanova, LedgerbackØDCRC (formerly)
 
+# Related Projects
+1. [CHAOSS Metrics](https://chaoss.community/metrics/)
+2. [BCorp Certification](https://bcorporation.net/)
+
+
 # Publications
 
 ## Slides
@@ -134,4 +139,14 @@ You can also support us by talking about the AGMF with your friends or colleague
 ## Articles
 
 1. [Evaluating For Distributed Governance in Internet-Native/Digital Organizations](https://medium.com/alternative-governance-network/evaluating-for-distributed-governance-in-internet-native-digital-organizations-23423b261238)
+
+# Upcoming Work 
+
+- Applied Group
+   - Assessment Instruments (Local Level)
+   	- Decentralized Organizing
+	- Distributed Governance
+	- Algorithmic Governance
+	- Core Technology
+	- Organization Performance
 
