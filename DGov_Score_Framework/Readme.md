@@ -94,15 +94,15 @@ You can talk to us through the links below:
 
 You can sponsor our work (and get mentioned in this Repo) by donating to our [Gitcoin Grant](https://gitcoin.co/grants/715/dgov-score-framework?tab=contributors) or donating on [Open Collective](https://opencollective.com/ledgerbackcoop). 
 
-## Sharing
-
-You can also support us by talking about the AGMF with your friends or colleagues, or giving us a shout out on your blog or social media!
-
 ### Donors
 
 #### ***HEXpumpsETH3***
 
 Thank you ***HEXpumpsETH3*** for donating to support our work on the AGMF!
+
+## Sharing
+
+You can also support us by talking about the AGMF with your friends or colleagues, or giving us a shout out on your blog or social media!
 
 # Contributors
 
